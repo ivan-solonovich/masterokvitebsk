@@ -5,10 +5,22 @@
     Error Message
   </video>
   <div class="main-title">
-    <h1 id="main-title">На протяжении двух десятилетий :  <VueWriter class="typing" id="typing-text" :array="slogans"
+    <h1 id="main-title"><VueWriter class="typing" id="typing-text" :array="slogans"
                                                                      :eraseSpeed="10" :typeSpeed="70"  :intervals="200"/></h1>
     <div class="main-button-group">
-<!--      <img src="../../../../assets/icons/phone.gif" alt="">-->
+      <div class="main-button-group">
+
+        <img class="messenger-icon-button-group" src="data:image/png;base64,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">
+
+        <img class="messenger-icon-button-group" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFSElEQVR4nO2aeYhVVRzHP06jqZNlRZr9UaTZXhS2ElG0zB8tRNEqRGEriZmaWaZl2TJKlGVIIlRG2x9lZVCgZQu0kFFDWRkFY9m0zJCVTpPlNC9+8Bt4XM7vvHvuPfc+q/eFAw/evb/l3HN+y/ccaKCBBhpooBTsAZwCXAvcCywFngKe1t8LgcnA6cAY/gMYBJwEPASsA/qBSsBYDzwCtAI78C/CrsAcYEOgw77xPXAPMJrtGCN0aW+O6Hhy9AIPAruxneFC4LsCHU+ObmCSbrO6YifgyUDjt2pMWA28CLygv9v1C4fIWqFbri4YB3yRwsi/gJXAdcBBNQKafNH9gauA54E/UsjvAA6hZBwJ/FjDsB+AmZr+smIkMCVFQN0EnEBJOAL41WNMDzALGBpR52CdiF88en8vYxLG6Ze1jHgL2KdA/ZIGX6mxEgrbDi3AZx7lbUAzxUPixK2ewqpDt050PG4o/FuXZ9m4DNhm2CQBNCrO9Xz5ejhfPQnWSrg85tL/xlAiDUy9Mcew7adYNcI8Q8Hbnj0ve/As4HzN60WiCXjVsPGBvMJ31siaFCwV277GO8cAnYlCSFJnkdjTSM2SGkflETzTmFmJwi5IH9/leF56/qJxvWHrXXmErncI7NK44ILVF/xZQis72IhVnVn5hGMNZyTouDBaHa0ErpqYmGLoPi2LsDaHoD5gL+P5iR7nZXxbArMzUrvNpO4lWYR94BC0yvP8zTUmQMY5FI8VDr2fZ2F3+hyCZnjemZViAhZQPK5x6O0PzQZHGw5M8LxzUQ3nJR0eTPE40NAvjHRqXGrU/L4Wd4yxagaGpKky0GQQKULH5yovO1K8t9Jw/jHKxTqHDRLUU2OBQ4AExVpoNSZA2OIysSZvJljiECBC08BVl28tmbd7yWHDEyECFhtsT1rWaIvj/bXAjpSDlx36l4cImO8Q8EnA+1d4YkEZXP6bDt0PhwiY4RCwMdCIZ4tqUVPARdffnTcN9gO7BMgYDnxkTMKjNVJqk8ah5dpeh6BZa46kzitDhBxuGH5yoDF7e84P1nrIkjsTz74WUMhYtp8YOou9DiFS74digkGqDGQHOfXdver58zw83/vA2TX0TTWKuOAD1fcy1gIuHAX8bDhV0awh9whuMDJISFXnSsOyFYNxmxEHxmachPHAlymcSzPmeqgxF1V+XxaDDzCUB5WUCcgyfC7CBAjZ6sJs4/njsxrc7hC2ObFns+Bipa2zON9j0N0tBh/5VZ7aY7JhRFBO9aTJaXr9Ja3z2zRFuzDXeEd4iswYatz86NUUF4vMPFNvjPV4nJdu9FRDxlgja21Sar8QunkR8dGikzFfqa1VeiYpX32IZwLfNWy8PYZR+2VIRWVikWHfBt1muTHJUCBdX70xvQwC9hljP9YbU7XCczm/LJaSJiO1yA3OemGIVo3Wl5e2fVjMy1CVlIXIIGV9izwCG6/9gOV8Z+wrOjc5lPRpRSfR9zjgRqWguvX/LXqkHvOaygjNDK5Tn+qUdxiRsdqoBNfo0bOvaPlNL1Dk+SJSa9xRo5GqaK0S3flhKS8q1hr92vvfonyCb2UM10NZabvf8AS56tFe1M201gjOW2OjBishWl8HPtSj7dAr9UtjBrwkFhY4AXnH18AZFIyPAxoUIUru19LTd5Ey7+jWrVTYVx/AKM9y7FGObp5ePJAb48kG6mrjeCrr+FTZIutmSnRMrFLepVfapylD2xx4Ujtb6bWQgCqr6h1NfVKLlI4LlEYWB2JBJu5Qndzp6txipb/bdGlfoiRqaV+6gQYaaID/M/4BLFc9T10/n14AAAAASUVORK5CYII=">
+
+        <img class="messenger-icon-button-group" src="data:image/png;base64,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">
+
+        <img class="messenger-icon-button-group" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEaklEQVR4nO2aa6hVRRTHf75uvkI0QfOBZBdLK8zSRFJSsD4UEqYJIgZCLzO1TPNDBYH0Ev1QVOpFe2hFaH4RC0XDglLp/VKJHpKime8wy+71xYI5sNnM7D1rzj7n7HvcP5gv9+5ZM2se/1mz5kBBQUFBQUFBHdKOS9DhicAG4G/gArAHmFPvg9ELeArYZ5y2lTepQ24F3gX+T3A8WsZSB3QG7ge+9XQ6WhbTirkaWAIcD3C8VFbTymgL3Al8BJxTOPofcNbydxnAVkF34AngV+UM/w48CQx0DJhsnVwzDFgJnFY4fc6skLvMihFuc3x7EzmkAZgKfK6cbdGCpUCjxeY8y/dnTFu5oTewENivdFwCm7lAlwTb71nqfUFOuNmocbPCaTnn1wLjPdv42WJjGTWkI3Af8J1ytv8EXgT6K9q6PE8C2GgcOKZ0/CszYB0C2nQJoAhsVWgLTAA2AecVTv8DLAdu8NAOOc+vcfz/cccWqrgAXgEsMGexZrZlvz4GdEuxLw7MN7e834Ceju/WOFZUxRgGrAg4u7cA93peU0X8fjJ195mw2MUeS3uysjKlwXR+i3K2TwIvA1cpNGRtpP7+FOe7OgTwgYz85srAs/sb4EFzk/NBzvhnTfASPREGp9QbU6kIcCywDmhRnt1yVx+laKeNUf+DMVsHgEEe9ec6+nFZOcL2oXK2ZXU8bbI0Gm4BdljsHUxQ/DirLfW/JpB2yvh8GzAZaK9sp6/puO3IlGV/rcLWLouNJgK5x8PpU8DrwHUB9jsBz5jz32b7EDBEYa+LIwfwMIG8luD4L0YMewTalkBpb4L9w8D1SpujHbaGB/aRpoQOyr56yMTdGkZ4bKvDHtGgjTkWW83lCOA0zy3Q5DHKss/f9giNjwJDA/v7luP4DaYD8INCBG2rIm2fx52/sYz+/mixKdmlsugbkKkpCeMM4A9FdqecYKWzQwBnktHtbhLwsfJ2d0HhvCRJymGUw7bEFhW53/+VkfMnM+rkbIcASiKmIjRELkOhq0KutSMz6o9NAOXlqCo0Ai8FrAqJGrPie4v9VVSZBuB5T+dbAmIIF50cl7RHqAG9HWocL9szbLNqAujLpx4D8Jwj7ugekAid5VhhsjJqwmyPARgf05D3I8FSs0mo+uYRVlnsiybUjD4pL7lnIpmhu03g5NIJmd00bG8Nb1BjPksYgE8i2RufJ2+JO1x0dLww1UQA01JTpbIo5aptK69GXn6jjHR8n1V8EUy/hADpkNL5UnnHIpAz8yaAUbYrHTxlnrWTAqqNsczySss3coPNBfMUzh+IXIgGpvwyZKdJ1uZWAEv09xS5L83JEd9CuxPqiOMDHAL4KDlic4rzHyQ8lvQ0P2pISqDY/q55h6g4IxJWwQsOZY8/dW1VbKUWxetT1ZgK/BvLAUxX1Jek5nrPAZAfS+WSHsDtwB1mVkMeaWyKHy1nzY8j6pY2wCsO58+b4OuSYIoJp48AJ8zFaVytO1VQUFBQUFBAq+QiUxStYMIOCnkAAAAASUVORK5CYII=">
+
+
+
+      </div>
     </div>
   </div>
 </div>
@@ -20,9 +32,10 @@ export default {
   data() {
     return{
       slogans:
-          [ "мы заботимся о вашем комфорте и уюте",
-            "качество проверенное временем",
-            "быстрый и надежный сервис"],
+          [ "Мы заботимся о вашем комфорте и уюте",
+            "Гарантируем качество проверенное временем",
+            "Быстрый и надежный сервис",
+            "Позвоните нам или закажите обратный звонок"],
       videoOfWidth: window.innerWidth,
 
     }},
@@ -56,13 +69,13 @@ export default {
 .main-title{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+
   align-items: center;
   padding-top: 180px;
   padding-left: 1rem;
   color:aliceblue;
   text-shadow: 1px 1px 0px black ;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
 }
 .typing{
   color: aliceblue;
@@ -71,10 +84,10 @@ export default {
 @media only screen and (max-width: 770px){
  .main-title{
    padding-top: 100px;
-   font-size: .8rem;
+   font-size: 1.3rem;
  }
   .typing{
-    font-size: .8rem;
+    font-size: 1.3rem;
   }
 }
 @media only screen and (min-width: 770px){
@@ -87,9 +100,13 @@ export default {
   }
 }
 .main-button-group{
-  width: 150px;
+  width: 300px;
   height: 40px;
-  display: flex;
-  justify-content: space-between;
+
+}
+.messenger-icon-button-group{
+  width: 32px;
+  height: 32px  ;
+  padding: 1rem;
 }
 </style>

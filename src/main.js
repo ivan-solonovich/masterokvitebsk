@@ -1,4 +1,11 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import VueWriter from "vue-writer";
 
-createApp(App).mount('#app')
+const app = createApp(App)
+app.use(
+
+    VueWriter
+    )
+
+    .mount('#app')

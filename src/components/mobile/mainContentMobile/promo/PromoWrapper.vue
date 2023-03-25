@@ -134,7 +134,7 @@ export default {
   border-radius: 10px;
 
 }
-@media only screen and (max-width: 880px){
+@media only screen and (max-width: 1080px){
  .main-title{
    padding-top: 30px;
    font-size: .8rem;

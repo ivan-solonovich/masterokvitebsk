@@ -1,12 +1,9 @@
 <template>
 <div class="promo-wrapper">
-  <video id="main-video" class="promo-video"  :width="videoOfWidth" playsinline autoplay="autoplay" muted loop="loop">
-    <source src="../../../../assets/videos/background-promo.mp4" type="video/mp4">
-    Error Message
-  </video>
-  <div class="main-title">
+     <div class="main-title-wrapper" >
+  <div class="main-title-mobile" >
     <h1 id="main-title"><VueWriter class="typing" id="typing-text" :array="slogans"
-                                                                     :eraseSpeed="10" :typeSpeed="70"  :intervals="200"/></h1>
+                                   :eraseSpeed="10" :typeSpeed="70"  :intervals="200"/></h1>
     <h6 class="call-me-message">Позвоните нам, отправте сообщение в любом мессенджере или закажите обратный звонок</h6>
     <div class="main-button-group-container">
       <div class="main-button-group">
@@ -60,11 +57,21 @@
     </div>
   </div>
 </div>
+     <div id="v" class="video-wrapper">
+            <video id="main-video" class="promo-video"   :width="videoOfWidth" playsinline autoplay="autoplay" muted loop="loop">
+              <source src="../../../../assets/videos/background-promo.mp4" type="video/mp4">
+              Error Message
+            </video>
+      </div>
+  <OfferMobileMain class="offer"/>
+</div>
 </template>
 
 <script>
+import OfferMobileMain from "@/components/mobile/offer-mobile-main/Offer-mobile-main";
 export default {
   name: "PromoWrapper",
+  components: {OfferMobileMain},
   data() {
     return{
       slogans:
@@ -73,20 +80,33 @@ export default {
             "Быстрый и надежный сервис",
             "Позвоните нам или закажите обратный звонок"],
       videoOfWidth: window.innerWidth,
-
+      videoOfHeight: (window.innerWidth*16)/9
     }},
+  props:{
+
+  },
   created(){
+
 
     window.addEventListener('load', ()=>{
       this.videoOfWidth = window.innerWidth ;
 
+
+      this.videoOfHeight = (this.videoOfWidth*16)/9
+      console.log(this.videoOfHeight)
     })
     window.addEventListener('resize', ()=>{
       this.videoOfWidth = window.innerWidth;
 
+
+      this.videoOfHeight =  (this.videoOfWidth*16)/9
+      console.log(this.videoOfHeight)
     })
 
   },
+  computed:{
+
+  }
 
 }
 </script>
@@ -98,26 +118,38 @@ export default {
   position: fixed;
   left: 0;
   right: 0;
-  top: 50px;
+  top: 80px;
   bottom: 0;
   z-index: -1;
 }
-.main-title{
+.main-title-wrapper{
+  width: 100%;
+  padding1: 1rem;
+
+}
+.main-title-mobile{
+
+  width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: column;
-
+  justify-content: center;
   align-items: center;
-  padding-top: 120px;
+  padding-top: 80px;
   padding-left: 1rem;
+  padding-bottom: 2rem;
   color:aliceblue;
   text-shadow: 1px 1px 0px black ;
   font-size: 1.6rem;
+  z-index: 999;
 }
 .typing{
+  width: 100%;
   color: aliceblue;
   text-shadow: 3px 3px 0px black ;
 }
 .main-button-group{
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -127,27 +159,121 @@ export default {
 }
 .call-back-button{
   margin-top: 2.5rem;
- padding: 1rem;
+  padding: 1rem;
   text-align: center;
   color: green;
   border: green solid 3px;
   border-radius: 10px;
 
 }
-@media only screen and (max-width: 1080px){
- .main-title{
-   padding-top: 30px;
-   font-size: .8rem;
+@media only screen and (max-width: 1279px){
+  .main-title-wrapper{
+    max-width: 1280px;
+    height: 715px;
+  }
+ .main-title-mobile{
+   padding-top: 80px;
+   font-size: 1.3rem;
  }
+
   .typing{
     font-size: 1.3rem;
   }
 }
+@media only screen and (max-width: 1140px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 680px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1.3rem;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 630px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1.3rem;
+  }
+}
+@media only screen and (max-width: 950px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 580px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1.3rem;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 530px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1.3rem;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 480px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1.3rem;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 430px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 380px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .main-title-wrapper {
+    max-width: 1139px;
+    height: 330px;
+  }
+
+  .main-title-mobile {
+    padding-top: 80px;
+    font-size: 1rem;
+  }
+}
+
 @media only screen and (min-width: 770px){
 
 }
 .main-button-group{
-  width: 300px;
+  max-width: 300px;
   height: 40px;
 
 }
@@ -157,4 +283,10 @@ export default {
 .messenger-icon-button-group{
 
 }
+
+.offer{
+  padding: 60px;
+}
+
+
 </style>

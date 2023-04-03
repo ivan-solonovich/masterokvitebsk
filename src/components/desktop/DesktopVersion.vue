@@ -1,18 +1,22 @@
 <template>
 <div class="desktop">
-  <MobileMenu/>
-  <PromoWrapperDesktop/>
+  <RedLinePromo/>
+  <NavBar/>
+  <CaruselMain/>
 </div>
 </template>
 
 <script>
-import MobileMenu from "@/components/mobile/mobileMenu/MobileMenu";
-import PromoWrapperDesktop from "@/components/desktop/promo-desktop/PromoWrapperDesktop";
+
+import RedLinePromo from "@/components/others/RedLinePromo";
+import NavBar from "@/components/navbar/NavBar";
+import CaruselMain from "@/components/carusel/CaruselMain";
 export default {
   name: "DesktopVersion",
   components:{
-    PromoWrapperDesktop,
-    MobileMenu,
+    NavBar,
+    RedLinePromo,
+    CaruselMain
 
   }
 }

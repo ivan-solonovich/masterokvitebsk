@@ -1,7 +1,7 @@
 <template>
 <div class="mobile-menu">
-  <LogoContainerMobile/>
   <NavContainerMobile/>
+  <LogoContainerMobile/>
   <ContactContainerMobile/>
 </div>
 </template>
@@ -23,9 +23,12 @@ export default {
 <style scoped>
   .mobile-menu{
     width: 100%;
-    height: 50px;
+    height: 120px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-left: .5rem;
+    padding-right: .5rem;
   }
+
 </style>

@@ -1,9 +1,10 @@
 <template>
 <div class="mobile">
   <RedLinePromo/>
- <NavBar/>
-<CaruselMain/>
-<BenefitsOf/>
+  <NavBar/>
+  <CaruselMain/>
+  <CallbackMe/>
+  <BenefitsOf/>
 
 
 </div>
@@ -15,12 +16,13 @@ import RedLinePromo from "@/components/others/RedLinePromo";
 import NavBar from "@/components/navbar/NavBar";
 import CaruselMain from "@/components/carusel/CaruselMain";
 import BenefitsOf from "@/components/others/BenefitsOf";
+import CallbackMe from "@/components/CallbackMe";
 
 
 
 export default {
   name: "MobileVersion",
-  components: {BenefitsOf, CaruselMain, NavBar, RedLinePromo}
+  components: {CallbackMe, BenefitsOf, CaruselMain, NavBar, RedLinePromo}
 }
 </script>
 

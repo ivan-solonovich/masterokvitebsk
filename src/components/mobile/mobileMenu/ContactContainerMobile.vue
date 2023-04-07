@@ -121,7 +121,7 @@ a{
   border-radius: 10px;
 
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 690px) {
   .phone-number-menu {
    font-size: 0.5rem;
   }

@@ -112,21 +112,15 @@ a{
 .phone-icon{
 
 }
-.call-back-button{
 
-  padding: .5rem;
-  text-align: center;
-  color: green;
-  border: green solid 3px;
-  border-radius: 10px;
-
-}
 @media only screen and (max-width: 690px) {
   .phone-number-menu {
    font-size: 0.5rem;
   }
-  .call-back-button{
-    font-size: 0.5rem;
+
+  .messenger-icon-button{
+    padding-left: .3rem;
+    padding-right: .3rem;
   }
 }
 </style>

@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style scoped>
-
+.call-back-me{
+  margin-bottom: 2rem;
+}
 </style>

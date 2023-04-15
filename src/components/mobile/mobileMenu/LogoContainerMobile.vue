@@ -18,7 +18,7 @@ export default {
 
 <style scoped>
 .logo-container-mobile{
-  max-width: 180px;
+  max-width: 160px;
   display: flex;
   justify-content: space-between;
   align-items: center;

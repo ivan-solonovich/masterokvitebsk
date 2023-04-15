@@ -1,5 +1,6 @@
 <template>
 <div class="container-fluid benefit-wrapper">
+  <h4 style="text-align: center; background-color: darkgoldenrod; color: aliceblue">Наши преймущества, таких условий больше вам не предложит никто !!!</h4>
   <div class="row justify-content-center">
     <div class="col-lg-6 col-md-12">
       <div class="card border-danger mb-3">
@@ -104,6 +105,6 @@ export default {
 
 <style scoped>
 .benefit-wrapper{
-  padding: 1rem;
+  padding-top: 3rem;
 }
 </style>

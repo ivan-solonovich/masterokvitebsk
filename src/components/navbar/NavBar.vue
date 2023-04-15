@@ -31,6 +31,9 @@
                 <a class="nav-link" href="#">Двери межкомнатные</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="#">Арки</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="#">Аксессуары</a>
               </li>
             </ul>

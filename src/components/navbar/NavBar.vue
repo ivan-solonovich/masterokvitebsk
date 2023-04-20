@@ -13,10 +13,14 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
+                <router-link class="menu-item" :to="{name:'home'}" active-class="none">
                 <a class="nav-link active" aria-current="page" href="#">На главную</a>
+                </router-link>
               </li>
               <li class="nav-item">
+                <router-link class="menu-item" :to="{name:'windows'}" active-class="none">
                 <a class="nav-link" href="#">Окна для квартиры</a>
+                </router-link>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Остекление домов и котетжей</a>
@@ -62,5 +66,10 @@ export default {
 <style scoped>
 .main-nav{
   padding-bottom: 2.3rem;
+}
+.menu-item{
+  list-style: none;
+  cursor: pointer;
+  text-decoration: none;
 }
 </style>

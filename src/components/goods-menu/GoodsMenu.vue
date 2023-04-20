@@ -8,12 +8,12 @@
 
       <div class="container">
           <div class="row  justify-content-center ">
-
-                <div class=" col-sm-12 col-6 icon-point p-3">
-                  <img class="goods-menu-image" src="../../assets/windows/sm_3x_close.png" alt="">
-                  <h4 class="name-point">Окна</h4>
-                </div>
-
+              <router-link class="menu-item col-sm-12 col-6 icon-point p-3 name-point" :to="{name:'windows'}" active-class="none">
+                  <div class=" col-sm-12 col-6 icon-point p-3">
+                    <img class="goods-menu-image" src="../../assets/windows/sm_3x_close.png" alt="">
+                    <h4 class="name-point">Окна</h4>
+                  </div>
+              </router-link>
                 <div class=" col-sm-12 col-6 icon-point p-3">
                   <img class="goods-menu-image" src="../../assets/windows/door-outside.jpg" alt="">
                   <h4 class="name-point">Двери входные</h4>
@@ -74,6 +74,10 @@ export default {
 }
 .name-point{
   padding-top: .3rem;
+  list-style: none;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
 }
 
 @media only screen and (max-width: 690px) {

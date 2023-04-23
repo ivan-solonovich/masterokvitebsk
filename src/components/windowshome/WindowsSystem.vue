@@ -46,7 +46,7 @@ export default {
   padding: .5rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-color: #0b6efd;
+  background-color: crimson;
   color: aliceblue;
 }
 </style>

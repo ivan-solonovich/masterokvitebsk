@@ -22,9 +22,7 @@
                 <a class="nav-link" href="#">Окна для квартиры</a>
                 </router-link>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Остекление домов и котетжей</a>
-              </li>
+
               <li class="nav-item">
                 <a class="nav-link" href="#">Остеклениие балконов</a>
               </li>

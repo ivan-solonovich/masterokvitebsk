@@ -1,5 +1,6 @@
 <template>
 <div class="windows-home">
+  <ZamerOkna/>
   <RedLineSecond/>
   <WindowsContent/>
   <WindowsSystem/>
@@ -10,9 +11,10 @@
 import RedLineSecond from "@/components/others/RedLineSecond";
 import WindowsContent from "@/components/windowshome/WindowsContent";
 import WindowsSystem from "@/components/windowshome/WindowsSystem";
+import ZamerOkna from "@/assets/windows/ZamerOkna";
 export default {
   name: "WindowsHome",
-  components: {WindowsSystem, WindowsContent, RedLineSecond}
+  components: {ZamerOkna, WindowsSystem, WindowsContent, RedLineSecond}
 }
 </script>
 

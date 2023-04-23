@@ -14,7 +14,7 @@
 
         </div>
        </a>
-    <a class="phone" href="+375 29 592-80-03">
+    <a class="phone" href="+375 29 6741797">
       <div class="contact-container-mobile">
 
           <svg  class="phone-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 256 256"><g transform="translate(256 0)
@@ -26,7 +26,7 @@
          45.19a14 14 0 0 0 13.77-1c.19-.13.38-.27.56-.42l24.68-21a1.92 1.92 0 0 1 1.6-.1l47.25 21.17a2 2 0 0 1 1.21 2A42.24
          42.24 0 0 1 176 210Z"/></g></svg>
 
-          <div class="phone-number-menu">A1 +375 29 592-80-03</div>
+          <div class="phone-number-menu">A1 +375 29 674-17-97</div>
 
       </div>
     </a>

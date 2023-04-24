@@ -1,5 +1,6 @@
 <template>
 <div class="windows-home">
+  <h2 style="text-align: center; color: crimson; padding: 2rem; font-weight: bolder;">Окна ПВХ для квартир, частных домов и нежилых помешений</h2>
   <ZamerOkna/>
   <RedLineSecond/>
   <UstanovkaOkna/>

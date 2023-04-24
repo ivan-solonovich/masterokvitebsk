@@ -19,7 +19,7 @@
               </li>
               <li class="nav-item">
                 <router-link class="menu-item" :to="{name:'windows'}" active-class="none">
-                <a class="nav-link" href="#">Окна для квартиры</a>
+                <a class="nav-link" href="#">Окна</a>
                 </router-link>
               </li>
 

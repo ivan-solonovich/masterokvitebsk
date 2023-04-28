@@ -9,14 +9,14 @@
     </div>
     <div class="container door-series-container">
       <div class="door-series">
+        <div class="door-series">
+          <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/_03графит.jpg" alt="">
+          <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
+          <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
+        </div>
         <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/03(ч)графит.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
-      </div>
-      <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/_03графит.jpg" alt="">
-        <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
-        <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
         <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/_03_СкандиКлассик.jpg" alt="">

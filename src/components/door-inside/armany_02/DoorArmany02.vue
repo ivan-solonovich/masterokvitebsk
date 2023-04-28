@@ -1,6 +1,6 @@
 <template>
   <div class="armany">
-    <h1 class="armany-title">Армани 01</h1>
+    <h1 class="armany-title">Армани 02</h1>
     <div class="container">
       <h2 class="armany-subtitle">От 169 руб за полотно и от 285 за комплект с матовым стеклом</h2>
       <h2 class="armany-subtitle">От 208 руб за полотно и от 324 за комплект с черным стеклом</h2>

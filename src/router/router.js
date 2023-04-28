@@ -14,6 +14,9 @@ import DoorArmany03 from "@/components/door-inside/armany_03/DoorArmany03";
 import DoorArmany04 from "@/components/door-inside/armany_04/DoorArmany04";
 import DoorArmany05 from "@/components/door-inside/armany_05/DoorArmany05";
 import DoorArmany06 from "@/components/door-inside/armany_06/DoorArmany06";
+import DoorArmany07 from "@/components/door-inside/armany_07/DoorArmany07";
+import DoorArmany09 from "@/components/door-inside/armany_09/DoorArmany09";
+import DoorArmany10 from "@/components/door-inside/armany_10/DoorArmany10";
 
 const routes =
     [
@@ -76,6 +79,24 @@ const routes =
             path: '/doors-inside/armany_06',
             name: 'armany_06',
             component: DoorArmany06,
+
+        },
+        {
+            path: '/doors-inside/armany_07',
+            name: 'armany_07',
+            component: DoorArmany07,
+
+        },
+        {
+            path: '/doors-inside/armany_09',
+            name: 'armany_09',
+            component: DoorArmany09,
+
+        },
+        {
+            path: '/doors-inside/armany_10',
+            name: 'armany_10',
+            component: DoorArmany10,
 
         },
     ]

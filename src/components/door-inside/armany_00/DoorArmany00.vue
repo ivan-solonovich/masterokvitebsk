@@ -1,5 +1,6 @@
 <template>
 <div class="armany">
+     <BackToSeries/>
       <h1 class="armany-title">Армани 00</h1>
       <div class="container">
             <h2 class="armany-subtitle">От 147 руб за полотно и от 262 за комплект</h2>
@@ -49,8 +50,11 @@
 </template>
 
 <script>
+import BackToSeries from "@/components/door-inside/BackToSeries";
+
 export default {
-  name: "DoorArmany00"
+  name: "DoorArmany00",
+  components: {BackToSeries}
 }
 </script>
 

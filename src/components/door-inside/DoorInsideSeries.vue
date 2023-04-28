@@ -50,22 +50,25 @@
       <h5 style="text-align: center; color: crimson">от 169 руб</h5>
     </div>
     </router-link>
-    <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">
+    <router-link class="door-inside-series-link"  :to="{name:'armany_07'}">
     <div class="door-series">
       <img class="door-series-img" src="../../assets/door-inside/door-series/Amati_07.jpg" alt="">
       <h5 style="text-align: center">Серия Армани 07</h5>
+      <h5 style="text-align: center; color: crimson">от 169 руб</h5>
     </div>
     </router-link>
-    <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">
+    <router-link class="door-inside-series-link"  :to="{name:'armany_09'}">
     <div class="door-series">
       <img class="door-series-img" src="../../assets/door-inside/door-series/Amati_09.jpg" alt="">
       <h5 style="text-align: center">Серия Армани 09</h5>
+      <h5 style="text-align: center; color: crimson">от 187 руб</h5>
     </div>
     </router-link>
-    <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">
+    <router-link class="door-inside-series-link"  :to="{name:'armany_10'}">
     <div class="door-series">
       <img class="door-series-img" src="../../assets/door-inside/door-series/Amati_10.jpg" alt="">
       <h5 style="text-align: center">Серия Армани 10</h5>
+      <h5 style="text-align: center; color: crimson">от 187 руб</h5>
     </div>
     </router-link>
     <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">

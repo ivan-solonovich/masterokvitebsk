@@ -1,5 +1,6 @@
 <template>
   <div class="armany">
+    <BackToSeries/>
     <h1 class="armany-title">Армани 03</h1>
     <div class="container">
       <h2 class="armany-subtitle">От 146 руб за полотно и от 264 за комплект с матовым стеклом</h2>
@@ -8,16 +9,17 @@
         и других факторов, - проконсультируйтесь с нашим специалистом. Это - бесплатно!</h4>
     </div>
     <div class="container door-series-container">
-      <div class="door-series">
+
         <div class="door-series">
           <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/_03графит.jpg" alt="">
           <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
           <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
         </div>
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/03(ч)графит.jpg" alt="">
-        <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
-        <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
-      </div>
+        <div class="door-series">
+          <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/03(ч)графит.jpg" alt="">
+          <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
+          <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
+        </div>
       <div class="door-series">
         <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_03/_03_СкандиКлассик.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Сканди класик</h6>
@@ -100,8 +102,11 @@
 </template>
 
 <script>
+import BackToSeries from "@/components/door-inside/BackToSeries";
+
 export default {
-  name: "DoorArmany03"
+  name: "DoorArmany03",
+  components: {BackToSeries}
 }
 </script>
 

@@ -1,5 +1,6 @@
 <template>
   <div class="armany">
+    <BackToSeries/>
     <h1 class="armany-title">Армани 06</h1>
     <div class="container">
       <h2 class="armany-subtitle">От 169 руб за полотно и от 285 за комплект с матовым стеклом</h2>
@@ -69,7 +70,7 @@
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_06/Amati_6_Dyb_Belenij.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_06/Amati_6_Dyb_Dimchatij.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб дымчатый</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
@@ -101,8 +102,11 @@
 </template>
 
 <script>
+import BackToSeries from "@/components/door-inside/BackToSeries";
+
 export default {
-  name: "DoorArmany06"
+  name: "DoorArmany06",
+  components: {BackToSeries}
 }
 </script>
 

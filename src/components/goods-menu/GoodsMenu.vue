@@ -18,12 +18,12 @@
                   <img class="goods-menu-image" src="../../assets/windows/door-outside.jpg" alt="">
                   <h4 class="name-point">Двери входные</h4>
                 </div>
-
-                <div class=" col-sm-12 col-6 icon-point p-3">
-                  <img class="goods-menu-image" src="../../assets/windows/door-inside.jpg" alt="">
-                  <h4 class="name-point">Двери межкомнатные</h4>
-                </div>
-
+            <router-link class="menu-item col-sm-12 col-6 icon-point p-3 name-point" :to="{name:'doorsInside'}" active-class="none">
+                  <div class=" col-sm-12 col-6 icon-point p-3">
+                    <img class="goods-menu-image" src="../../assets/windows/door-inside.jpg" alt="">
+                    <h4 class="name-point">Двери межкомнатные</h4>
+                  </div>
+                </router-link>
                 <div class=" col-sm-12 col-6 icon-point p-3">
                   <img class="goods-menu-image" src="../../assets/windows/arcs.jpg" alt="">
                   <h4 class="name-point">Арки</h4>
@@ -79,7 +79,11 @@ export default {
   text-decoration: none;
   color: black;
 }
-
+.menu-item{
+  list-style: none;
+  cursor: pointer;
+  text-decoration: none;
+}
 @media only screen and (max-width: 690px) {
   .icon-point{
     width: 50%;

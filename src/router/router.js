@@ -9,7 +9,7 @@ import DoorInsideWrapper from "@/components/door-inside/DoorInsideWrapper";
 
 import DoorArmany00 from "@/components/door-inside/armany_00/DoorArmany00";
 import DoorArmany01 from "@/components/door-inside/armany_01/DoorArmany01";
-
+import DoorArmany02 from "@/components/door-inside/armany_02/DoorArmany02";
 
 const routes =
     [
@@ -42,6 +42,12 @@ const routes =
             path: '/doors-inside/armany_01',
             name: 'armany_01',
             component: DoorArmany01,
+
+        },
+        {
+            path: '/doors-inside/armany_02',
+            name: 'armany_02',
+            component: DoorArmany02,
 
         },
     ]

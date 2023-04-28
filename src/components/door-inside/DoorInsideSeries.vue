@@ -15,10 +15,11 @@
       <h5 style="text-align: center; color: crimson">от 147 руб</h5>
     </div>
     </router-link>
-    <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">
+    <router-link class="door-inside-series-link"  :to="{name:'armany_02'}">
     <div class="door-series">
       <img class="door-series-img" src="../../assets/door-inside/door-series/Amati_02.jpg" alt="">
       <h5 style="text-align: center">Серия Армани 02</h5>
+      <h5 style="text-align: center; color: crimson">от 169 руб</h5>
     </div>
     </router-link>
     <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">

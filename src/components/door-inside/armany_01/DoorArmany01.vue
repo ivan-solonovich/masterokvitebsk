@@ -124,11 +124,7 @@ export default {
   height: 492px;
   margin: 1rem;
 }
-.door-inside-series-link{
-  cursor: pointer;
-  text-decoration: none;
-  color: #198754;
-}
+
 .door-series-desc{
   text-align: center;
   padding-top: .5rem;

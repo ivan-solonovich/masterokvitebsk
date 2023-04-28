@@ -30,7 +30,9 @@
                 <a class="nav-link" href="#">Двери входные</a>
               </li>
               <li class="nav-item">
+                <router-link class="menu-item" :to="{name:'doorsInside'}" active-class="none">
                 <a class="nav-link" href="#">Двери межкомнатные</a>
+                </router-link>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Арки</a>

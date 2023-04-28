@@ -1,0 +1,12 @@
+[
+  {
+    "id" : "00",
+    "name" : "Армани 00",
+    "series" : "Армани",
+    "image" : "Amati_00.jpg",
+    "color1": "../../assets/door-inside/door-series/colors/Byanko.jpg",
+    "color1-name": "Бьянко",
+    "glssOftype": "без стекла",
+    "price" : "262.92 руб"
+  }
+]

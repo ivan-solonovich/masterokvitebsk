@@ -1,0 +1,22 @@
+[
+  {
+    "id" : "0",
+    "name" : "Армани 00",
+    "series" : "Армани",
+    "model" : "00",
+    "imgeUri" : "../../assets/door-inside/door-series/Amati_00.jpg",
+    "color" : "шале-графит",
+    "glssOftype": "без стекла",
+    "price" : "262.92 руб"
+  },
+  {
+    "id" : "0",
+    "name" : "Армани 00",
+    "series" : "Армани",
+    "model" : "00",
+    "imgeUri" : "/armany/series00/_00 графит.jpg",
+    "color" : "шале-графит",
+    "glssOftype": "без стекла",
+    "price" : "262.92 руб"
+  }
+]

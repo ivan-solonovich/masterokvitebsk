@@ -4,7 +4,7 @@
       <h2 class="door-inside-title">Серии входных дверей, на любой вкус и кошелек.</h2>
   </div>
   <div class="container">
-    <router-view></router-view>
+
    <DoorInsideSeries/>
   </div>
 </div>

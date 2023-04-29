@@ -22,6 +22,20 @@ import DoorArmany12 from "@/components/door-inside/armany_12/DoorArmany12";
 import DoorArmany13 from "@/components/door-inside/armany_13/DoorArmany13";
 import DoorArmany14 from "@/components/door-inside/armany_14/DoorArmany14";
 import DoorArmany15 from "@/components/door-inside/armany_15/DoorArmany15";
+import DoorArmany16 from "@/components/door-inside/armany_16/DoorArmany16";
+import DoorArmany17 from "@/components/door-inside/armany_17/DoorArmany17";
+import DoorArmany18 from "@/components/door-inside/armany_18/DoorArmany18";
+import DoorArmany19 from "@/components/door-inside/armany_19/DoorArmany19";
+import DoorArmany20 from "@/components/door-inside/armany_20/DoorArmany20";
+import DoorArmany21 from "@/components/door-inside/armany_21/DoorArmany21";
+import DoorArmany22 from "@/components/door-inside/armany_22/DoorArmany22";
+import DoorBlanko00 from "@/components/door-inside/blanko_00/DoorBlanko00";
+import DoorBlanko01 from "@/components/door-inside/blanko_01/DoorBlanko01";
+import DoorBlanko03 from "@/components/door-inside/blanko_03/DoorBlanko03";
+import DoorBlanko04 from "@/components/door-inside/blanko_04/DoorBlanko04";
+import DoorBlanko06 from "@/components/door-inside/blanko_06/DoorBlanko06";
+import DoorBlanko07 from "@/components/door-inside/blanko_07/DoorBlanko07";
+import DoorBlanko12 from "@/components/door-inside/blanko_12/DoorBlanko12";
 
 const routes =
     [
@@ -132,6 +146,90 @@ const routes =
             path: '/doors-inside/armany_15',
             name: 'armany_15',
             component: DoorArmany15,
+
+        },
+        {
+            path: '/doors-inside/armany_16',
+            name: 'armany_16',
+            component: DoorArmany16,
+
+        },
+        {
+            path: '/doors-inside/armany_17',
+            name: 'armany_17',
+            component: DoorArmany17,
+
+        },
+        {
+            path: '/doors-inside/armany_18',
+            name: 'armany_18',
+            component: DoorArmany18,
+
+        },
+        {
+            path: '/doors-inside/armany_19',
+            name: 'armany_19',
+            component: DoorArmany19,
+
+        },
+        {
+            path: '/doors-inside/armany_20',
+            name: 'armany_20',
+            component: DoorArmany20,
+
+        },
+        {
+            path: '/doors-inside/armany_21',
+            name: 'armany_21',
+            component: DoorArmany21,
+
+        },
+        {
+            path: '/doors-inside/armany_22',
+            name: 'armany_22',
+            component: DoorArmany22,
+
+        },
+        {
+            path: '/doors-inside/blanko_00',
+            name: 'blanko_00',
+            component: DoorBlanko00,
+
+        },
+        {
+            path: '/doors-inside/blanko_01',
+            name: 'blanko_01',
+            component: DoorBlanko01,
+
+        },
+        {
+            path: '/doors-inside/blanko_03',
+            name: 'blanko_03',
+            component: DoorBlanko03,
+
+        },
+        {
+            path: '/doors-inside/blanko_04',
+            name: 'blanko_04',
+            component: DoorBlanko04,
+
+        },
+        {
+            path: '/doors-inside/blanko_06',
+            name: 'blanko_06',
+            component: DoorBlanko06,
+
+        },
+        {
+            path: '/doors-inside/blanko_07',
+            name: 'blanko_07',
+            component: DoorBlanko07,
+
+        },
+        {
+            path: '/doors-inside/blanko_12',
+            name: 'blanko_12',
+            component: DoorBlanko12,
 
         },
     ]

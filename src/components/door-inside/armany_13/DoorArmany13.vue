@@ -1,98 +1,98 @@
 <template>
   <div class="armany">
     <BackToSeries/>
-    <h1 class="armany-title">Армани 04</h1>
+    <h1 class="armany-title">Армани 13</h1>
     <div class="container">
       <h2 class="armany-subtitle">От 169 руб за полотно и от 285 за комплект с матовым стеклом</h2>
-      <h2 class="armany-subtitle">От 208 руб за полотно и от 324 за комплект с черным стеклом</h2>
+      <h2 class="armany-subtitle">От 186 руб за полотно и от 303 за комплект с черным стеклом</h2>
       <h4 class="armany-subtitle-desc">Окончательная стоимость может зависить от пипа фурнитуры, необходимости использовать дополнительные компоненты
         и других факторов, - проконсультируйтесь с нашим специалистом. Это - бесплатно!</h4>
     </div>
     <div class="container door-series-container">
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/_04графит.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/_13графит.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/04(ч)графит.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/13(ч)графит.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Шале графит</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
 
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/_04_СкандиКлассик.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/_13_СкандиКлассик.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Сканди класик</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
 
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/_04корица1.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/_13корица1.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Шале корица</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/_04(ч)корица.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/_13(ч)корица.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Шале корица</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/_04натур.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/_13натур.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Шале натуральный</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span>Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/_04(ч)натур.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/_13(ч)натур.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Шале натуральный</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span>Черное</h6>
       </div>
 
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/04эшвайт.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/13эшвайт.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Эшвайт</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/04эшвайт(ч).jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/13эшвайт(ч).jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Эшвайт</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
 
 
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/Amati_4_Dyb_Belenij.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/Amati_13_Dyb_Belenij.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Беленый дуб</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/Amati_04(ch)_Dyb_belenij.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/Amati_13(ch)_Dyb_belenij.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Беленый дуб</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/Amati_4_Dyb_Dimchatij.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/Amati_13_Dyb_Dimchatij.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб дымчатый</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
 
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/Amati_04(ch)_Dyb_dimchatij.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/Amati_13(ch)_Dyb_dimchatij.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб дымчатый</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
 
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/Amati_4_Venge.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/Amati_13_Venge.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Венге</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/Amati_04(ch)_Dyb_venge.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/Amati_13(ch)_Dyb_venge.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Венге</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_04/_04_Бьянко.jpg" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/armany_13/_13_Бьянко.jpg" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Бьянко</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
@@ -107,7 +107,7 @@ import BackToSeries from "@/components/door-inside/BackToSeries";
 import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
 
 export default {
-  name: "DoorArmany04",
+  name: "DoorArmany13",
   components: {ContactContainerMobile, BackToSeries}
 }
 </script>

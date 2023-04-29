@@ -97,16 +97,18 @@
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
     </div>
-
+    <BackToSeries/>
+    <ContactContainerMobile/>
   </div>
 </template>
 
 <script>
 import BackToSeries from "@/components/door-inside/BackToSeries";
+import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
 
 export default {
   name: "DoorArmany10",
-  components: {BackToSeries}
+  components: {ContactContainerMobile, BackToSeries}
 }
 </script>
 

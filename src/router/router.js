@@ -37,6 +37,8 @@ import DoorBlanko06 from "@/components/door-inside/blanko_06/DoorBlanko06";
 import DoorBlanko07 from "@/components/door-inside/blanko_07/DoorBlanko07";
 import DoorBlanko12 from "@/components/door-inside/blanko_12/DoorBlanko12";
 import DoorBlanko17 from "@/components/door-inside/blanko_17/DoorBlanko17";
+import DoorSeriesArmany from "@/components/door-inside/DoorSeriesArmany";
+import DoorSeriesBlanko from "@/components/door-inside/DoorSeriesBlanko";
 
 const routes =
     [
@@ -57,6 +59,12 @@ const routes =
             path: '/doors-inside/',
             name: 'doorsInside',
             component: DoorInsideWrapper,
+
+        },
+        {
+            path: '/doors-inside/armany',
+            name: 'armany',
+            component: DoorSeriesArmany,
 
         },
         {
@@ -189,6 +197,12 @@ const routes =
             path: '/doors-inside/armany_22',
             name: 'armany_22',
             component: DoorArmany22,
+
+        },
+        {
+            path: '/doors-inside/blanko',
+            name: 'blanko',
+            component: DoorSeriesBlanko,
 
         },
         {

@@ -7,6 +7,7 @@
       <h2 class="armany-subtitle">От 232 руб за полотно и от 348 за комплект с черным стеклом</h2>
       <h4 class="armany-subtitle-desc">Окончательная стоимость может зависить от пипа фурнитуры, необходимости использовать дополнительные компоненты
         и других факторов, - проконсультируйтесь с нашим специалистом. Это - бесплатно!</h4>
+      <ColorAttension/>
     </div>
     <div class="container door-series-container">
       <div class="door-series">
@@ -105,61 +106,14 @@
 <script>
 import BackToSeries from "@/components/door-inside/BackToSeries";
 import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
+import ColorAttension from "@/components/door-inside/ColorAttension";
 
 export default {
   name: "DoorArmany09",
-  components: {ContactContainerMobile, BackToSeries}
+  components: {ColorAttension, ContactContainerMobile, BackToSeries}
 }
 </script>
 
 <style scoped>
-.armany{
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
-.armany-title{
-  text-align: center;
-  color: crimson;
-  font-weight: bolder;
-  padding: 2rem;
-}
-.armany-subtitle{
-  text-align: center;
-  padding: 1rem;
-}
-.armany-subtitle-desc{
-  text-align: center;
-  padding: 1rem;
-  background-color: #198754;
-  padding-bottom: 2rem;
-}
-.door-series-container{
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-.door-series{
-  max-width: 200px;
-  height: 556px;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  padding: 3rem;
-  margin: 3rem;
-}
-.door-series-img{
-  width: 220px;
-  height: 492px;
-  margin: 1rem;
-}
-.door-series-desc{
-  text-align: center;
-  padding-top: .5rem;
-  padding-bottom: .5rem
-}
+@import "@/assets/styles/door_armany.css";
 </style>

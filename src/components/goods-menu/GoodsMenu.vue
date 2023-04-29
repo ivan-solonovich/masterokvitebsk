@@ -36,7 +36,7 @@
 
                 <div class=" col-sm-12 col-6 icon-point p-3">
                   <img class="goods-menu-image" src="../../assets/windows/acsessuars.jpeg" alt="">
-                  <h4 class="name-point">Аксессуары</h4>
+                  <h4 class="name-point">Фурнитура</h4>
                 </div>
           </div>
       </div>

@@ -42,6 +42,15 @@ import DoorSeriesBlanko from "@/components/door-inside/DoorSeriesBlanko";
 import DoorSeriesStandart from "@/components/door-inside/DoorSeriesStandart";
 import DoorStandart01 from "@/components/door-inside/standart_01/DoorStandart01";
 import DoorStandart02 from "@/components/door-inside/standart_02/DoorStandart02";
+import DoorStandart04 from "@/components/door-inside/standart_04/DoorStandart04";
+import DoorStandart05 from "@/components/door-inside/standart_05/DoorStandart05";
+import DoorStandart06 from "@/components/door-inside/standart_06/DoorStandart06";
+import DoorStandart07 from "@/components/door-inside/standart_07/DoorStandart07";
+import DoorStandart09 from "@/components/door-inside/standart_09/DoorStandart09";
+import DoorStandart10 from "@/components/door-inside/standart_10/DoorStandart10";
+import DoorStandart12 from "@/components/door-inside/standart_12/DoorStandart12";
+import DoorStandart13 from "@/components/door-inside/standart_13/DoorStandart13";
+import DoorStandart14 from "@/components/door-inside/standart_14/DoorStandart14";
 
 const routes =
     [
@@ -272,6 +281,60 @@ const routes =
             path: '/doors-inside/standart_02',
             name: 'standart_02',
             component: DoorStandart02,
+
+        },
+        {
+            path: '/doors-inside/standart_04',
+            name: 'standart_04',
+            component: DoorStandart04,
+
+        },
+        {
+            path: '/doors-inside/standart_05',
+            name: 'standart_05',
+            component: DoorStandart05,
+
+        },
+        {
+            path: '/doors-inside/standart_06',
+            name: 'standart_06',
+            component: DoorStandart06,
+
+        },
+        {
+            path: '/doors-inside/standart_07',
+            name: 'standart_07',
+            component: DoorStandart07,
+
+        },
+        {
+            path: '/doors-inside/standart_09',
+            name: 'standart_09',
+            component: DoorStandart09,
+
+        },
+        {
+            path: '/doors-inside/standart_10',
+            name: 'standart_10',
+            component: DoorStandart10,
+
+        },
+        {
+            path: '/doors-inside/standart_12',
+            name: 'standart_12',
+            component: DoorStandart12,
+
+        },
+        {
+            path: '/doors-inside/standart_13',
+            name: 'standart_13',
+            component: DoorStandart13,
+
+        },
+        {
+            path: '/doors-inside/standart_14',
+            name: 'standart_14',
+            component: DoorStandart14,
 
         },
     ]

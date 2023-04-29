@@ -38,7 +38,7 @@
                 <a class="nav-link" href="#">Арки</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Аксессуары</a>
+                <a class="nav-link" href="#">Фурнитура</a>
               </li>
             </ul>
           </div>

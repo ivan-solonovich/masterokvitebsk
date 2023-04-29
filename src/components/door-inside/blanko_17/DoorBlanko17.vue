@@ -7,6 +7,7 @@
       <h2 class="armany-subtitle">От 164 руб за полотно и от 261 за комплект с черным стеклом</h2>
       <h4 class="armany-subtitle-desc">Окончательная стоимость может зависить от пипа фурнитуры, необходимости использовать дополнительные компоненты
         и других факторов, - проконсультируйтесь с нашим специалистом. Это - бесплатно!</h4>
+      <ColorAttension/>
     </div>
     <div class="container door-series-container">
       <div class="door-series">
@@ -49,9 +50,10 @@
 <script>
 import BackToSeries from "@/components/door-inside/BackToSeries";
 import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
+import ColorAttension from "@/components/door-inside/ColorAttension";
 export default {
   name: "DoorArmany17",
-  components: {ContactContainerMobile, BackToSeries}
+  components: {ColorAttension, ContactContainerMobile, BackToSeries}
 }
 </script>
 

@@ -43,6 +43,13 @@
         <h5 style="text-align: center; color: crimson">от 146 руб</h5>
       </div>
     </router-link>
+    <router-link class="door-inside-series-link"  :to="{name:'blanko_12'}">
+      <div class="door-series">
+        <img class="door-series-img" src="../../assets/door-inside/door-series/blanko_12.jpg" alt="">
+        <h5 style="text-align: center">Серия Бланко 12</h5>
+        <h5 style="text-align: center; color: crimson">от 146 руб</h5>
+      </div>
+    </router-link>
     <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">
     <div class="door-series">
       <img class="door-series-img" src="../../assets/door-inside/door-series/Amati_00.jpg" alt="">

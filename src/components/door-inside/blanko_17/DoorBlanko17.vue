@@ -1,7 +1,7 @@
 <template>
   <div class="armany">
     <BackToSeries/>
-    <h1 class="armany-title">Бланко 12</h1>
+    <h1 class="armany-title">Бланко 17</h1>
     <div class="container">
       <h2 class="armany-subtitle">От 146 руб за полотно и от 241 за комплект с матовым стеклом</h2>
       <h2 class="armany-subtitle">От 164 руб за полотно и от 261 за комплект с черным стеклом</h2>
@@ -10,33 +10,33 @@
     </div>
     <div class="container door-series-container">
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_12/08ДубСонома.png" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_17/17ДубСонома.png" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб Сонома</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_12/12(ч)ДубСонома.png" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_17/17(ч)ДубСонома.png" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб Сонома</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_12/12ЛиственницаСибиу.png" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_17/17ЛиственницаСибиу.png" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Лиственница сибиу</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
 
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_12/12(ч)ЛиственницаСибиу.png" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_17/17(ч)ЛиственницаСибиу.png" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб стирлинг</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_12/12ДубСтирлинг.png" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_17/17ДубСтирлинг.png" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб стирлинг</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Матовое</h6>
       </div>
       <div class="door-series">
-        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_12/12(ч)ДубСтирлинг.png" alt="">
+        <img class="door-series-img" src="../../../assets/door-inside/door-series/blanko_17/17(ч)ДубСтирлинг.png" alt="">
         <h6 class="door-series-desc" ><span>Цвет:</span> Дуб стирлинг</h6>
         <h6 class="door-series-desc" ><span>Стекло:</span> Черное</h6>
       </div>

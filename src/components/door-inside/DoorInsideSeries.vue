@@ -2,6 +2,14 @@
 <div class="door-inside-series">
   <div class="container door-series-container">
 
+    <router-link class="door-inside-series-link"  :to="{name:'standart'}">
+      <div class="door-series">
+        <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_15.jpg" alt="">
+        <h5 style="text-align: center">Серия Стандарт</h5>
+        <h5 style="text-align: center; color: crimson">Класика</h5>
+      </div>
+    </router-link>
+
     <router-link class="door-inside-series-link"  :to="{name:'blanko'}">
       <div class="door-series">
         <img class="door-series-img" src="../../assets/door-inside/door-series/blanko_07.jpg" alt="">

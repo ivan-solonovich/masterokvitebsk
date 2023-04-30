@@ -79,6 +79,104 @@
           <h5 style="text-align: center; color: crimson">от 103 руб</h5>
         </div>
       </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_15'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_15.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 15</h5>
+          <h5 style="text-align: center; color: crimson">от 118 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_17'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_17.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 17</h5>
+          <h5 style="text-align: center; color: crimson">от 103 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_19'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_19.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 19</h5>
+          <h5 style="text-align: center; color: crimson">от 119 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_22'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_22.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 22</h5>
+          <h5 style="text-align: center; color: crimson">от 103 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_25'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_25.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 25</h5>
+          <h5 style="text-align: center; color: crimson">от 159 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_29'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_29.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 29</h5>
+          <h5 style="text-align: center; color: crimson">от 159 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_31'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_31.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 31</h5>
+          <h5 style="text-align: center; color: crimson">от 103 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_33'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_33.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 33</h5>
+          <h5 style="text-align: center; color: crimson">от 103 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_34'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_34.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 34</h5>
+          <h5 style="text-align: center; color: crimson">от 103 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_36'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL-36.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 36</h5>
+          <h5 style="text-align: center; color: crimson">от 103 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_38'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_38.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 38</h5>
+          <h5 style="text-align: center; color: crimson">от 119 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_39'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_39.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 39</h5>
+          <h5 style="text-align: center; color: crimson">от 159 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_49'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_49.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт 49</h5>
+          <h5 style="text-align: center; color: crimson">от 103 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'standart_tripoly2'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_Tifani2.jpg" alt="">
+          <h5 style="text-align: center">Серия Стандарт Триполи 2</h5>
+          <h5 style="text-align: center; color: crimson">от 119 руб</h5>
+        </div>
+      </router-link>
     </div>
     <BackToSeries/>
   </div>

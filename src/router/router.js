@@ -51,6 +51,22 @@ import DoorStandart10 from "@/components/door-inside/standart_10/DoorStandart10"
 import DoorStandart12 from "@/components/door-inside/standart_12/DoorStandart12";
 import DoorStandart13 from "@/components/door-inside/standart_13/DoorStandart13";
 import DoorStandart14 from "@/components/door-inside/standart_14/DoorStandart14";
+import DoorStandart15 from "@/components/door-inside/standart_15/DoorStandart15";
+import DoorStandart17 from "@/components/door-inside/standart_17/DoorStandart17";
+import DoorStandart19 from "@/components/door-inside/standart_19/DoorStandart19";
+import DoorStandart22 from "@/components/door-inside/standart_22/DoorStandart22";
+import DoorStandart25 from "@/components/door-inside/standart_25/DoorStandart25";
+import DoorStandart29 from "@/components/door-inside/standart_29/DoorStandart29";
+import DoorStandart31 from "@/components/door-inside/standart_31/DoorStandart31";
+import DoorStandart33 from "@/components/door-inside/standart_33/DoorStandart33";
+import DoorStandart34 from "@/components/door-inside/standart_34/DoorStandart34";
+import DoorStandart36 from "@/components/door-inside/standart_36/DoorStandart36";
+import DoorStandart38 from "@/components/door-inside/standart_38/DoorStandart38";
+import DoorStandart39 from "@/components/door-inside/standart_39/DoorStandart39";
+import DoorStandart49 from "@/components/door-inside/standart_49/DoorStandart49";
+import DoorStandartTripoly2 from "@/components/door-inside/standart_tripoly2/DoorStandartTripoly2";
+import DoorArmanyM1 from "@/components/door-inside/armany_m1/DoorArmanyM1";
+import DoorArmany25 from "@/components/door-inside/armany_25/DoorArmany25";
 
 const routes =
     [
@@ -212,6 +228,18 @@ const routes =
 
         },
         {
+            path: '/doors-inside/armany_25',
+            name: 'armany_25',
+            component: DoorArmany25,
+
+        },
+        {
+            path: '/doors-inside/armany_m1',
+            name: 'armany_m1',
+            component: DoorArmanyM1,
+
+        },
+        {
             path: '/doors-inside/blanko',
             name: 'blanko',
             component: DoorSeriesBlanko,
@@ -335,6 +363,90 @@ const routes =
             path: '/doors-inside/standart_14',
             name: 'standart_14',
             component: DoorStandart14,
+
+        },
+        {
+            path: '/doors-inside/standart_15',
+            name: 'standart_15',
+            component: DoorStandart15,
+
+        },
+        {
+            path: '/doors-inside/standart_17',
+            name: 'standart_17',
+            component: DoorStandart17,
+
+        },
+        {
+            path: '/doors-inside/standart_19',
+            name: 'standart_19',
+            component: DoorStandart19,
+
+        },
+        {
+            path: '/doors-inside/standart_22',
+            name: 'standart_22',
+            component: DoorStandart22,
+
+        },
+        {
+            path: '/doors-inside/standart_25',
+            name: 'standart_25',
+            component: DoorStandart25,
+
+        },
+        {
+            path: '/doors-inside/standart_29',
+            name: 'standart_29',
+            component: DoorStandart29,
+
+        },
+        {
+            path: '/doors-inside/standart_31',
+            name: 'standart_31',
+            component: DoorStandart31,
+
+        },
+        {
+            path: '/doors-inside/standart_33',
+            name: 'standart_33',
+            component: DoorStandart33,
+
+        },
+        {
+            path: '/doors-inside/standart_34',
+            name: 'standart_34',
+            component: DoorStandart34,
+
+        },
+        {
+            path: '/doors-inside/standart_36',
+            name: 'standart_36',
+            component: DoorStandart36,
+
+        },
+        {
+            path: '/doors-inside/standart_38',
+            name: 'standart_38',
+            component: DoorStandart38,
+
+        },
+        {
+            path: '/doors-inside/standart_39',
+            name: 'standart_39',
+            component: DoorStandart39,
+
+        },
+        {
+            path: '/doors-inside/standart_49',
+            name: 'standart_49',
+            component: DoorStandart49,
+
+        },
+        {
+            path: '/doors-inside/standart_tripoly2',
+            name: 'standart_tripoly2',
+            component: DoorStandartTripoly2,
 
         },
     ]

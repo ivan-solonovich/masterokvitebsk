@@ -157,6 +157,20 @@
           <h5 style="text-align: center; color: crimson">от 187 руб</h5>
         </div>
       </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'armany_25'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/armany_25.jpg" alt="">
+          <h5 style="text-align: center">Серия Армани 25</h5>
+          <h5 style="text-align: center; color: crimson">от 169 руб</h5>
+        </div>
+      </router-link>
+      <router-link class="door-inside-series-link"  :to="{name:'armany_m1'}">
+        <div class="door-series">
+          <img class="door-series-img" src="../../assets/door-inside/door-series/armany_m1.jpg" alt="">
+          <h5 style="text-align: center">Серия Армани M1</h5>
+          <h5 style="text-align: center; color: crimson">от 145 руб</h5>
+        </div>
+      </router-link>
     </div>
     <BackToSeries/>
   </div>

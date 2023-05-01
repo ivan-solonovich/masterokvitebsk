@@ -1,6 +1,8 @@
 <template>
   <div class="door-inside-series">
     <BackToSeries style="padding-top: 2rem"/>
+    <h2 class="door-inside-series-title">Серия Стандарт</h2>
+    <h4 class="door-inside-series-subtitle">Серия стандарт - это проверенная временем класика</h4>
     <div class="container door-series-container">
       <router-link class="door-inside-series-link"  :to="{name:'standart_01'}">
         <div class="door-series">
@@ -178,7 +180,7 @@
         </div>
       </router-link>
     </div>
-    <BackToSeries/>
+    <BackToSeries style="margin-top: 3rem"/>
   </div>
 </template>
 
@@ -215,23 +217,50 @@ export default {
   justify-content: center;
   flex-wrap: wrap;
 }
+
 .door-series{
   max-width: 200px;
+  max-height: 450px;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  padding: 3rem;
-  margin: 3rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding-bottom: 0;
 }
+h5 {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
 .door-series-img{
   width: 220px;
   height: auto;
   margin: 1rem;
 }
+a.door-inside-series-link{
+  max-height: 450px;
+  margin: 0;
+  padding: 0;
+
+}
 .door-inside-series-link{
   cursor: pointer;
   text-decoration: none;
   color: #198754;
+  padding: 0;
+  margin: 0;
 }
+.door-inside-series-title{
+  margin: 1rem;
+  text-align: center;
+  font-weight: bolder;
+  color: crimson;
+}
+.door-inside-series-subtitle{
+  margin: 1rem;
+  text-align: center;
+}
+
 </style>

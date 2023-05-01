@@ -1,6 +1,8 @@
 <template>
   <div class="door-inside-series">
     <BackToSeries style="padding-top: 2rem"/>
+    <h2 class="door-inside-series-title">Серия Армани</h2>
+    <h4 class="door-inside-series-subtitle">Серия Армани - современный интерьер, за разумные деньги</h4>
     <div class="container door-series-container">
 
       <router-link class="door-inside-series-link"  :to="{name:'armany_00'}">
@@ -227,5 +229,15 @@ export default {
   cursor: pointer;
   text-decoration: none;
   color: #198754;
+}
+.door-inside-series-title{
+  margin: 1rem;
+  text-align: center;
+  font-weight: bolder;
+  color: crimson;
+}
+.door-inside-series-subtitle{
+  margin: 1rem;
+  text-align: center;
 }
 </style>

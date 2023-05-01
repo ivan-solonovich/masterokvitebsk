@@ -1,21 +1,24 @@
 <template>
 <div class="door-inside-wrapper">
   <div class="container">
-      <h2 class="door-inside-title">Серии входных дверей, на любой вкус и кошелек.</h2>
+      <h1 class="door-inside-title">Межкомнатные двери </h1>
+
   </div>
   <div class="container">
 
    <DoorInsideSeries/>
   </div>
+  <ContactContainerMobile/>
 </div>
 </template>
 
 <script>
 
 import DoorInsideSeries from "@/components/door-inside/DoorInsideSeries";
+import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
 export default {
   name: "DoorInsideWrapper",
-  components: {DoorInsideSeries},
+  components: {ContactContainerMobile, DoorInsideSeries},
 }
 </script>
 

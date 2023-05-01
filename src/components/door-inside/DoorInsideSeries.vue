@@ -1,5 +1,7 @@
 <template>
 <div class="door-inside-series">
+  <DoorBenefit/>
+  <h3 style="text-align: center; margin-top: 2rem">В нашем каталоге почти 60 вариантов дверей</h3>
   <div class="container door-series-container">
 
     <router-link class="door-inside-series-link"  :to="{name:'standart'}">
@@ -33,11 +35,12 @@
 
 <script>
 import doorseries from "@/data/doorseries.json";
+import DoorBenefit from "@/components/door-inside/DoorBenefit";
 
 
 export default {
   name: "DoorInsideSeries",
-
+  components: {DoorBenefit},
   data() {
     return {
       doorSeries: doorseries,
@@ -82,5 +85,6 @@ computed:{
   cursor: pointer;
   text-decoration: none;
   color: #198754;
+
 }
 </style>

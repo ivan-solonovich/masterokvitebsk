@@ -67,6 +67,7 @@ import DoorStandart49 from "@/components/door-inside/standart_49/DoorStandart49"
 import DoorStandartTripoly2 from "@/components/door-inside/standart_tripoly2/DoorStandartTripoly2";
 import DoorArmanyM1 from "@/components/door-inside/armany_m1/DoorArmanyM1";
 import DoorArmany25 from "@/components/door-inside/armany_25/DoorArmany25";
+import DoorKnobWrapper from "@/components/knob/DoorKnobWrapper";
 
 const routes =
     [
@@ -447,6 +448,12 @@ const routes =
             path: '/doors-inside/standart_tripoly2',
             name: 'standart_tripoly2',
             component: DoorStandartTripoly2,
+
+        },
+        {
+            path: '/knob',
+            name: 'knob',
+            component: DoorKnobWrapper
 
         },
     ]

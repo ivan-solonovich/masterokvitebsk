@@ -38,7 +38,9 @@
                 <a class="nav-link" href="#">Арки</a>
               </li>
               <li class="nav-item">
+                <router-link class="menu-item" :to="{name:'knob'}" active-class="none">
                 <a class="nav-link" href="#">Фурнитура</a>
+                </router-link>
               </li>
             </ul>
           </div>

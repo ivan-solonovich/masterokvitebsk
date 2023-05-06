@@ -33,11 +33,12 @@
                   <img class="goods-menu-image" src="../../assets/windows/teplyj-balkon.jpg" alt="">
                   <h4 class="name-point">Остекление балконов</h4>
                 </div>
-
+            <router-link class="menu-item col-sm-12 col-6 icon-point p-3 name-point" :to="{name:'knob'}" active-class="none">
                 <div class=" col-sm-12 col-6 icon-point p-3">
                   <img class="goods-menu-image" src="../../assets/windows/acsessuars.jpeg" alt="">
                   <h4 class="name-point">Фурнитура</h4>
                 </div>
+            </router-link>
           </div>
       </div>
 

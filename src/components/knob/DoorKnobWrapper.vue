@@ -248,6 +248,168 @@
       <p class="knob-desc" >BASIS TL CF-17 кофе</p>
       <h5 class="knob-price" > 36,5 р. </h5>
     </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-43.jpg" alt="">
+      <h6 class="knob-id">ID 33065</h6>
+      <p class="knob-desc" >BOLERO TL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-45.jpg" alt="">
+      <h6 class="knob-id">ID 33069</h6>
+      <p class="knob-desc" >BOLERO TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-48.jpg" alt="">
+      <h6 class="knob-id">ID 33169</h6>
+      <p class="knob-desc" >PELICAN TL CF-17 кофе</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-49.jpg" alt="">
+      <h6 class="knob-id">ID 33171</h6>
+      <p class="knob-desc" >PELICAN TL SG/GP-4 матовое золото/золото</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-50.jpg" alt="">
+      <h6 class="knob-id">ID 33171</h6>
+      <p class="knob-desc" >PELICAN TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-57.jpg" alt="">
+      <h6 class="knob-id">ID 33195</h6>
+      <p class="knob-desc" >SIMFONIA TL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-58.jpg" alt="">
+      <h6 class="knob-id">ID 33197</h6>
+      <p class="knob-desc" >SIMFONIA TL SG/GP-4 матовое золото/золото</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-59.jpg" alt="">
+      <h6 class="knob-id">ID 33199</h6>
+      <p class="knob-desc" >SIMFONIA TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-2.jpg" alt="">
+      <h6 class="knob-id">ID 33063</h6>
+      <p class="knob-desc" >BLADE QL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-3.jpg" alt="">
+      <h6 class="knob-id">ID 33081</h6>
+      <p class="knob-desc" >CITY QL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-4.jpg" alt="">
+      <h6 class="knob-id">ID 33083</h6>
+      <p class="knob-desc" >CITY QL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-6.jpg" alt="">
+      <h6 class="knob-id">ID 33163</h6>
+      <p class="knob-desc" >NAVY QL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-7.jpg" alt="">
+      <h6 class="knob-id">ID 33201</h6>
+      <p class="knob-desc" >TECH QL CF-17 кофе</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-8.jpg" alt="">
+      <h6 class="knob-id">ID 33203</h6>
+      <p class="knob-desc" >TECH QL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-9.jpg" alt="">
+      <h6 class="knob-id">ID 37001</h6>
+      <p class="knob-desc" >TECH QL GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-10.jpg" alt="">
+      <h6 class="knob-id">ID 37003</h6>
+      <p class="knob-desc" >NAVY QL GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-11.jpg" alt="">
+      <h6 class="knob-id">ID 37005</h6>
+      <p class="knob-desc" >CITY QL GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-12.jpg" alt="">
+      <h6 class="knob-id">ID 37007</h6>
+      <p class="knob-desc" >BLADE QL GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-13.jpg" alt="">
+      <h6 class="knob-id">ID 34779</h6>
+      <p class="knob-desc" >MARS QR GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-14.jpg" alt="">
+      <h6 class="knob-id">ID 34781</h6>
+      <p class="knob-desc" >MARS QR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-15.jpg" alt="">
+      <h6 class="knob-id">ID 34783</h6>
+      <p class="knob-desc" >MARS QR SN/WH-19 матовый никель/белый</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-16.jpg" alt="">
+      <h6 class="knob-id">ID 34791</h6>
+      <p class="knob-desc" >ORION QR GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-17.jpg" alt="">
+      <h6 class="knob-id">ID 34793</h6>
+      <p class="knob-desc" >ORION QR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-18.jpg" alt="">
+      <h6 class="knob-id">ID 34795</h6>
+      <p class="knob-desc" >SATURN QR GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-19.jpg" alt="">
+      <h6 class="knob-id">ID 34797</h6>
+      <p class="knob-desc" >SATURN QR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-20.jpg" alt="">
+      <h6 class="knob-id">ID 34799</h6>
+      <p class="knob-desc" >VESTA QR GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-21.jpg" alt="">
+      <h6 class="knob-id">ID 34801</h6>
+      <p class="knob-desc" >VESTA QR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
   </div>
 </div>
 </template>

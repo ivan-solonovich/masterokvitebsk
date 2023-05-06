@@ -410,6 +410,12 @@
       <p class="knob-desc" >VESTA QR SN/CP-3 матовый никель/хром</p>
       <h5 class="knob-price" > 37,0 р. </h5>
     </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-22.jpg" alt="">
+      <h6 class="knob-id">ID 37009</h6>
+      <p class="knob-desc" >GALAXY QR GR/CP-23 графит/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
   </div>
 </div>
 </template>

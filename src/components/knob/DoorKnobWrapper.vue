@@ -116,6 +116,138 @@
       <p class="knob-desc" >BOSTON TL SN/CP-3 матовый никель/хром</p>
       <h5 class="knob-price" > 33,5 р. </h5>
     </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-51.jpg" alt="">
+      <h6 class="knob-id">ID 33183</h6>
+      <p class="knob-desc" >RUMBA TL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-52.jpg" alt="">
+      <h6 class="knob-id">ID 33185</h6>
+      <p class="knob-desc" >RUMBA TL CFB-18 кофе глянец</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-53.jpg" alt="">
+      <h6 class="knob-id">ID 33187</h6>
+      <p class="knob-desc" >RUMBA TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-54.jpg" alt="">
+      <h6 class="knob-id">ID 33189</h6>
+      <p class="knob-desc" >SALSA TL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-55.jpg" alt="">
+      <h6 class="knob-id">ID 33191</h6>
+      <p class="knob-desc" >SALSA TL CFB-18 кофе глянец</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-56.jpg" alt="">
+      <h6 class="knob-id">ID 33193</h6>
+      <p class="knob-desc" >SALSA TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-60.jpg" alt="">
+      <h6 class="knob-id">ID 33485</h6>
+      <p class="knob-desc" >ARFA TL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-61.jpg" alt="">
+      <h6 class="knob-id">ID 33487</h6>
+      <p class="knob-desc" >ARFA TL CF-17 кофе</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-62.jpg" alt="">
+      <h6 class="knob-id">ID 33489</h6>
+      <p class="knob-desc" >ARFA TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-65.jpg" alt="">
+      <h6 class="knob-id">ID 34765</h6>
+      <p class="knob-desc" >FLOR TL CF-17 кофе</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-71.jpg" alt="">
+      <h6 class="knob-id">ID 34785</h6>
+      <p class="knob-desc" >ONDA TL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-72.jpg" alt="">
+      <h6 class="knob-id">ID 34787</h6>
+      <p class="knob-desc" >ONDA TL CF-17 кофе</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-73.jpg" alt="">
+      <h6 class="knob-id">ID 34789</h6>
+      <p class="knob-desc" >ONDA TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-123.jpg" alt="">
+      <h6 class="knob-id">ID 38381</h6>
+      <p class="knob-desc" >CITY TL SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-129.jpg" alt="">
+      <h6 class="knob-id">ID 40149</h6>
+      <p class="knob-desc" >BLADE TL SSC-16 сатинированный хром</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-130.jpg" alt="">
+      <h6 class="knob-id">ID 40155</h6>
+      <p class="knob-desc" >BLADE TL GR-23 графит</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-131.jpg" alt="">
+      <h6 class="knob-id">ID 40157</h6>
+      <p class="knob-desc" >BLADE TL BL-24 черный</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-132.jpg" alt="">
+      <h6 class="knob-id">ID 40159</h6>
+      <p class="knob-desc" >BLADE TL WH-19 белый</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/35321_01.jpg" alt="">
+      <h6 class="knob-id">ID 35321</h6>
+      <p class="knob-desc" >RUMBA TL CF-17 кофе</p>
+      <h5 class="knob-price" > 33,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-35.jpg" alt="">
+      <h6 class="knob-id">ID 33025</h6>
+      <p class="knob-desc" >ALFA TL CFB-18 кофе глянец</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-40.jpg" alt="">
+      <h6 class="knob-id">ID 33041</h6>
+      <p class="knob-desc" >BASIS TL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" src="../../assets/knob/01-41.jpg" alt="">
+      <h6 class="knob-id">ID 33043</h6>
+      <p class="knob-desc" >BASIS TL CF-17 кофе</p>
+      <h5 class="knob-price" > 36,5 р. </h5>
+    </div>
   </div>
 </div>
 </template>

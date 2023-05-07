@@ -476,6 +476,66 @@
       <p class="knob-desc" >METEOR QR GR/CP-23 графит/хром</p>
       <h5 class="knob-price" > 37,0 р. </h5>
     </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/37519_01.jpg" alt="">
+      <h6 class="knob-id">ID 37519</h6>
+      <p class="knob-desc" >NOVA QR SN/WH-19 мат.никель/белый</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/36013_01.jpg" alt="">
+      <h6 class="knob-id">ID 36013</h6>
+      <p class="knob-desc" >NOVA QR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/40153_01.jpg" alt="">
+      <h6 class="knob-id">ID 40153</h6>
+      <p class="knob-desc" >METEOR QR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-402.jpg" alt="">
+      <h6 class="knob-id">ID 33061</h6>
+      <p class="knob-desc" >BLADE QL ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 37,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-399.jpg" alt="">
+      <h6 class="knob-id">ID 33205</h6>
+      <p class="knob-desc" >VENTO ML ABG-6 зеленая бронза</p>
+      <h5 class="knob-price" > 38,4 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-401.jpg" alt="">
+      <h6 class="knob-id">ID 33209</h6>
+      <p class="knob-desc" >VENTO ML SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 38,4 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-90.jpg" alt="">
+      <h6 class="knob-id">ID 39567</h6>
+      <p class="knob-desc" >MADRID MT OB-13 античная бронза</p>
+      <h5 class="knob-price" > 38,4 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-92.jpg" alt="">
+      <h6 class="knob-id">ID 39571</h6>
+      <p class="knob-desc" >MADRID MT OS-9 античное серебро</p>
+      <h5 class="knob-price" > 39,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-95.jpg" alt="">
+      <h6 class="knob-id">ID 39577</h6>
+      <p class="knob-desc" >BELLAGIO MT OB-13 античная бронза</p>
+      <h5 class="knob-price" > 39,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-97.jpg" alt="">
+      <h6 class="knob-id">ID 39581</h6>
+      <p class="knob-desc" >BELLAGIO MT OS-9 античное серебро</p>
+      <h5 class="knob-price" > 39,5 р. </h5>
+    </div>
   </div>
 </div>
 </template>

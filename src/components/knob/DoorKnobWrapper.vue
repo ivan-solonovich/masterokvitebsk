@@ -1,6 +1,6 @@
 <template>
 <div class="knob-wrapper">
-  <h1>Дверные ручки (Для межкомнатных дверей)</h1>
+  <h1 class="knob-title">Дверные ручки <span class="knob-subtitle">  (Для межкомнатных дверей)</span></h1>
   <div class="container knob-content">
     <div class="knob">
       <img class="knob-img" src="../../assets/knob/01-74.jpg" alt="">
@@ -442,7 +442,7 @@ export default {
 }
 .knob{
   max-width: 280px;
-  height: 556px;
+  height: 350px;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -470,5 +470,14 @@ export default {
   padding-top: .5rem;
   padding-bottom: .5rem;
   color: crimson;
+}
+.knob-title{
+  padding: 1rem;
+  margin-top: 2rem;
+  color: crimson;
+}
+.knob-subtitle{
+  color: black;
+  font-size: medium;
 }
 </style>

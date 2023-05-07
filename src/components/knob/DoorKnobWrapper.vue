@@ -45,6 +45,26 @@
       <h5 class="knob-price" > 24,5 р. </h5>
     </div>
     <div class="knob">
+      <div class="img-container">
+          <img class="knob-img" loading="lazy" src="../../assets/knob/КаприSNCP.jpg" alt="">
+      </div>
+      <div class="content-container">
+          <h6 class="knob-id">Капри-SN/CP</h6>
+          <p class="knob-desc" >Капри-SN/CP Матовый хром/хром</p>
+          <h5 class="knob-price" > 25,70 р. </h5>
+    </div>
+    </div>
+    <div class="knob">
+      <div class="img-container">
+          <img class="knob-img" loading="lazy" src="../../assets/knob/ИмперияSNCP.jpg" alt="">
+      </div>
+      <div class="content-container">
+          <h6 class="knob-id">Империя-SN/CP</h6>
+          <p class="knob-desc" >Империя-SN/CP Матовый хром/хром</p>
+          <h5 class="knob-price" > 26,59 р. </h5>
+      </div>
+    </div>
+    <div class="knob">
       <img class="knob-img" loading="lazy" src="../../assets/knob/01-100.jpg" alt="">
       <h6 class="knob-id">ID 39587</h6>
       <p class="knob-desc" >PALMIRA MT OS-9 античное серебро</p>
@@ -67,6 +87,66 @@
       <h6 class="knob-id">ID 38393</h6>
       <p class="knob-desc" >CRONA TL SG/GP-4 мат. золото/золото</p>
       <h5 class="knob-price" > 29,0 р. </h5>
+    </div>
+    <div class="knob">
+      <div class="img-container">
+       <img class="knob-img" loading="lazy" src="../../assets/knob/РикоSNCP.jpg" alt="">
+      </div>
+      <div class="content-container">
+          <h6 class="knob-id">Рико-SN/CP</h6>
+          <p class="knob-desc" >Рико-SN/CP Матовый хром/хром</p>
+          <h5 class="knob-price" > 29,65 р. </h5>
+      </div>
+    </div>
+    <div class="knob">
+      <div class="img-container">
+        <img class="knob-img" loading="lazy" src="../../assets/knob/РикоBLCP.jpg" alt="">
+      </div>
+      <div class="content-container">
+          <h6 class="knob-id">Рико-BL/CP</h6>
+          <p class="knob-desc" >Рико-SN/CP Хром/черный</p>
+          <h5 class="knob-price" > 29,65 р. </h5>
+      </div>
+    </div>
+    <div class="knob">
+      <div class="img-container">
+       <img class="knob-img" loading="lazy" src="../../assets/knob/РикоWHCP.jpg" alt="">
+      </div>
+      <div class="content-container">
+          <h6 class="knob-id">Рико-WH/CP</h6>
+          <p class="knob-desc" >Рико-SN/CP Хром/белый</p>
+          <h5 class="knob-price" > 29,65 р. </h5>
+      </div>
+    </div>
+    <div class="knob">
+      <div class="img-container">
+           <img class="knob-img" loading="lazy" src="../../assets/knob/ТерамоSN.jpg" alt="">
+      </div>
+      <div class="content-container">
+          <h6 class="knob-id">Терамо-SN</h6>
+          <p class="knob-desc" >Комо-SN Сатинированный никель</p>
+          <h5 class="knob-price" > 31,73 р. </h5>
+      </div>
+    </div>
+    <div class="knob">
+      <div class="img-container">
+          <img class="knob-img" loading="lazy" src="../../assets/knob/КомоSN.jpg" alt="">
+      </div>
+      <div class="content-container">
+          <h6 class="knob-id">Комо-SN</h6>
+          <p class="knob-desc" >Комо-SN Сатинированный никель</p>
+          <h5 class="knob-price" > 31,73 р. </h5>
+      </div>
+    </div>
+    <div class="knob">
+      <div class="img-container">
+        <img class="knob-img" loading="lazy" src="../../assets/knob/ГрандSN.jpg" alt="">
+      </div>
+      <div class="content-container">
+        <h6 class="knob-id">Гранд-SN</h6>
+        <p class="knob-desc" >Гранд-SN Сатинированный никель</p>
+        <h5 class="knob-price" > 32,63 р. </h5>
+      </div>
     </div>
     <div class="knob">
       <img class="knob-img" loading="lazy" src="../../assets/knob/01-34.jpg" alt="">
@@ -536,6 +616,174 @@
       <p class="knob-desc" >BELLAGIO MT OS-9 античное серебро</p>
       <h5 class="knob-price" > 39,5 р. </h5>
     </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-98.jpg" alt="">
+      <h6 class="knob-id">ID 39583</h6>
+      <p class="knob-desc" >PALMIRA MT OB-13 античная бронза</p>
+      <h5 class="knob-price" > 39,5 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/01-5.jpg" alt="">
+      <h6 class="knob-id">ID 33161</h6>
+      <p class="knob-desc" >NAVY QL CF-17 кофе</p>
+      <h5 class="knob-price" > 41,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/46389_01.jpg" alt="">
+      <h6 class="knob-id">ID 46389</h6>
+      <p class="knob-desc" >K.QSL52.TITAN СP/WH-19 хром/белый</p>
+      <h5 class="knob-price" > 47,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/46391_01.jpg" alt="">
+      <h6 class="knob-id">ID 46391</h6>
+      <p class="knob-desc" >K.QSL52.TITAN BL-24 черный</p>
+      <h5 class="knob-price" > 47,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/46393_01.jpg" alt="">
+      <h6 class="knob-id">ID 46393</h6>
+      <p class="knob-desc" >K.QSL52.TITAN SN/BL-3 мат.никель/черный</p>
+      <h5 class="knob-price" > 47,0 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41077_01.jpg" alt="">
+      <h6 class="knob-id">ID 41077</h6>
+      <p class="knob-desc" >AXIS ZR BL-24 чёрный</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41099_01.jpg" alt="">
+      <h6 class="knob-id">ID 41099</h6>
+      <p class="knob-desc" >AXIS ZR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41079_01.jpg" alt="">
+      <h6 class="knob-id">ID 41079</h6>
+      <p class="knob-desc" >SUPREME ZR ABG-6 бронза</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41105_01.jpg" alt="">
+      <h6 class="knob-id">ID 41105</h6>
+      <p class="knob-desc" >SUPREME ZR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41097_01.jpg" alt="">
+      <h6 class="knob-id">ID 41097</h6>
+      <p class="knob-desc" >COMETA ZR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41125_01.jpg" alt="">
+      <h6 class="knob-id">ID 41125</h6>
+      <p class="knob-desc" >UNI ZR SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41115_01.jpg" alt="">
+      <h6 class="knob-id">ID 41115</h6>
+      <p class="knob-desc" >SERENITY ZR OS-9 античное серебро</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41119_01.jpg" alt="">
+      <h6 class="knob-id">ID 41119</h6>
+      <p class="knob-desc" >SERENITY ZR OB-13 античная бронза</p>
+      <h5 class="knob-price" > 52,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41073_01.jpg" alt="">
+      <h6 class="knob-id">ID 41073</h6>
+      <p class="knob-desc" >LORENA ZR OB-13 античная бронза</p>
+      <h5 class="knob-price" > 55,1 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41095_01.jpg" alt="">
+      <h6 class="knob-id">ID 41095</h6>
+      <p class="knob-desc" >LORENA ZR OS-9 античное серебро</p>
+      <h5 class="knob-price" > 55,1 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41111_01.jpg" alt="">
+      <h6 class="knob-id">ID 41111</h6>
+      <p class="knob-desc" >LORENA ZR BL-24 чёрный</p>
+      <h5 class="knob-price" > 55,1 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41127_01.jpg" alt="">
+      <h6 class="knob-id">ID 41127</h6>
+      <p class="knob-desc" >FENIX ZR ABG-6 бронза</p>
+      <h5 class="knob-price" > 55,1 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41035_01.jpg" alt="">
+      <h6 class="knob-id">ID 41035</h6>
+      <p class="knob-desc" >DROID ZQ SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41045_01.jpg" alt="">
+      <h6 class="knob-id">ID 41045</h6>
+      <p class="knob-desc" >DROID ZQ BL-24 чёрный</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41043_01.jpg" alt="">
+      <h6 class="knob-id">ID 41043</h6>
+      <p class="knob-desc" >FUTURA ZQ GR/BN-23 графит/чёрный никель</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41039_01.jpg" alt="">
+      <h6 class="knob-id">ID 41039</h6>
+      <p class="knob-desc" >FUTURA ZQ SN/WH-19 матовый никель/белый</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41033_01.jpg" alt="">
+      <h6 class="knob-id">ID 41033</h6>
+      <p class="knob-desc" >ROTO ZQ GR-23 графит</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41037_01.jpg" alt="">
+      <h6 class="knob-id">ID 41037</h6>
+      <p class="knob-desc" >BIO ZQ SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41041_01.jpg" alt="">
+      <h6 class="knob-id">ID 41041</h6>
+      <p class="knob-desc" >INTEGRA ZQ BL-24 чёрный</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41047_01.jpg" alt="">
+      <h6 class="knob-id">ID 41047</h6>
+      <p class="knob-desc" >INTEGRA ZQ SN/CP-3 матовый никель/хром</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41049_01.jpg" alt="">
+      <h6 class="knob-id">ID 41049</h6>
+      <p class="knob-desc" >INTEGRA ZQ GR-23 графит</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41051_01.jpg" alt="">
+      <h6 class="knob-id">ID 41051</h6>
+      <p class="knob-desc" >BIO ZQ GR-23 графит</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
+    <div class="knob">
+      <img class="knob-img" loading="lazy" src="../../assets/knob/41055_01.jpg" alt="">
+      <h6 class="knob-id">ID 41055</h6>
+      <p class="knob-desc" >BIO ZQ GR-23 графит</p>
+      <h5 class="knob-price" > 59,6 р. </h5>
+    </div>
   </div>
 </div>
 </template>
@@ -570,7 +818,22 @@ export default {
   padding: 2rem;
   margin: 2rem;
 }
+.img-container{
+  max-width: 200px;
+  height: 163px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-container{
 
+  width: 100%;
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .knob-img{
   max-width: 200px;
   height: auto;

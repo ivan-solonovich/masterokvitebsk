@@ -44,6 +44,7 @@ export default {
     padding-top: 2rem;
     padding-bottom: 1rem;
     text-align: center;
+
   }
   .social-networks-actions{
     width: 100%;
@@ -67,6 +68,8 @@ export default {
     text-decoration: none;
     font-weight: bolder;
     color: black;
+    padding: 1rem;
+
   }
   a{
     text-decoration: none;

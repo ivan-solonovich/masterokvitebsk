@@ -2,7 +2,7 @@
   <div class="social-networks">
     <div class="container social-networks-actions">
         <h5>Когда клиент дает согласие, мы размещаем наши реальные работы в соцсетях. Поставте нам оценку в любой из соцсетей, сделайте репост нашего любого поста и получите гарантированный ценный подарок.</h5>
-        <h4>Нажмите на иконку предпочитаемой соцсети, подарки уже ждут вас.</h4>
+
     </div>
 
       <div class="container social-icons">
@@ -20,6 +20,14 @@
 
         </a>
       </div>
+    <div class="container arrow">
+<div class="container">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="64" viewBox="0 0 24 24"><path fill="#dc143c" d="M14 20h-4v-9l-3.5 3.5l-2.42-2.42L12 4.16l7.92 7.92l-2.42 2.42L14 11v9Z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="48" height="64" viewBox="0 0 24 24"><path fill="#dc143c" d="M14 20h-4v-9l-3.5 3.5l-2.42-2.42L12 4.16l7.92 7.92l-2.42 2.42L14 11v9Z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="48" height="64" viewBox="0 0 24 24"><path fill="#dc143c" d="M14 20h-4v-9l-3.5 3.5l-2.42-2.42L12 4.16l7.92 7.92l-2.42 2.42L14 11v9Z"/></svg>
+    </div>
+      <h5 style="color: #0b6efd; padding: 1rem;">Нажмите на иконку предпочитаемой соцсети, подарки уже ждут вас.</h5>
+    </div>
     <div class="line ">
     <hr style="width: 80%; color: #0b6efd">
     </div>
@@ -66,7 +74,7 @@ export default {
   .social-desk{
 
     text-decoration: none;
-    font-weight: bolder;
+
     color: black;
     padding: 1rem;
 

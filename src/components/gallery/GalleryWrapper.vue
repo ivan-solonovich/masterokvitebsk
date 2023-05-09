@@ -32,7 +32,20 @@
     ><swiper-slide
   ><img
       src="../../assets/ourWorks/windows/photo_2023-03-20_08-12-20.jpg" loading="lazy"/></swiper-slide
-  ><swiper-slide
+  >
+    <swiper-slide>
+      <img
+          src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41.jpg" loading="lazy"/>
+    </swiper-slide>
+    <swiper-slide>
+      <img
+          src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-00.jpg" loading="lazy"/>
+    </swiper-slide>
+    <swiper-slide>
+      <img
+          src="../../assets/ourWorks/entranseDoor/photo_2023-03-20_08-28-21.jpg" loading="lazy"/>
+    </swiper-slide>
+    <swiper-slide
   ><img
       src="../../assets/ourWorks/windows/photo_2023-03-20_08-15-18.jpg" loading="lazy"/></swiper-slide
   ><swiper-slide
@@ -62,6 +75,9 @@
           src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-15(3).jpg" loading="lazy"/>
     </swiper-slide>
   </swiper>
+  <div class="container">
+    <h4 style="text-align: center;  margin-top: 1rem;">Больше наших работ вы найдете в соцсетях</h4>
+  </div>
 </div>
 </template>
 

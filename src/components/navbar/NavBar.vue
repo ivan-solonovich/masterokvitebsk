@@ -67,7 +67,8 @@ export default {
 
 <style scoped>
 .main-nav{
-  padding-bottom: 2.3rem;
+  padding-bottom: 3rem;
+
 }
 .menu-item{
   list-style: none;

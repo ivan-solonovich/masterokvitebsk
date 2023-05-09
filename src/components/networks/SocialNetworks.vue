@@ -31,8 +31,8 @@
     <div class="line ">
     <hr style="width: 80%; color: #0b6efd">
     </div>
-    <div class="call-me-now">
-      <h4 style="color: crimson">Позвоните и узнайте, что мы дарим сегодня</h4>
+    <div class="call-me-now container">
+      <h5 style="width:90%; color: crimson; ">Позвоните и узнайте, что мы дарим сегодня</h5>
     </div>
   </div>
 </template>
@@ -84,6 +84,12 @@ export default {
     font-weight: bolder;
   }
   .line{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .call-me-now{
+
     width: 100%;
     display: flex;
     justify-content: center;

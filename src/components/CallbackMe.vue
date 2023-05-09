@@ -1,6 +1,6 @@
 <template>
 <div class="call-back-me">
-  <img src="../assets/logos/rektangleWithText.png" class="img-calback img-fluid">
+  <img src="../assets/logos/rectangle.jpg" class="img-calback img-fluid">
 </div>
 </template>
 

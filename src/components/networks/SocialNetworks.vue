@@ -1,5 +1,5 @@
 <template>
-  <div class="social-networks">
+  <div class="social-networks container">
     <div class="container social-networks-actions">
         <h5>Когда клиент дает согласие, мы размещаем наши реальные работы в соцсетях. Поставте нам оценку в любой из соцсетей, сделайте репост нашего любого поста и получите гарантированный ценный подарок.</h5>
 
@@ -53,6 +53,7 @@ export default {
     padding-bottom: 1rem;
     text-align: center;
 
+
   }
   .social-networks-actions{
     width: 100%;
@@ -63,13 +64,14 @@ export default {
     color: aliceblue;
     background-color: #0b6efd;
     text-align: center;
+
   }
   .social-icons{
     padding: 2rem;
     width: 100%;
     display: flex;
     justify-content: space-around;
-
+    flex-wrap: wrap;
   }
   .social-desk{
 

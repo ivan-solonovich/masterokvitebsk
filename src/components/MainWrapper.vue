@@ -1,5 +1,5 @@
 <template>
-<div class="main-wrapper">
+<div class="main-wrapper ">
   <div class="desktop-wrapper" v-show="!isMobile">
     <DesktopVersion/>
   </div>
@@ -43,5 +43,7 @@ export default {
 </script>
 
 <style scoped>
-
+.main-wrapper{
+  width: 100%;
+}
 </style>

@@ -1,5 +1,5 @@
 <template>
-<div class="mobile">
+<div class="mobile ">
   <RedLinePromo/>
   <NavBar/>
  <router-view></router-view>

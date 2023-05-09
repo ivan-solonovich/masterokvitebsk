@@ -1,7 +1,7 @@
 <template>
   <div class="contact-container-mobile-wrapper">
             <div class="container desktop-alining">
-            <a class="phone" href="+375 29 592-80-03">
+            <a class="phone" href="+375 33 592-80-03">
                 <div class="contact-container-mobile">
 
                   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" class="phone-icon"

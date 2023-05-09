@@ -1,6 +1,8 @@
 <template>
+  <div class="container-fluid"   >
   <div class="the-second-line">
-   <h2>При заказе двух окон - маскитная сетка в подарок</h2>
+   <h2 style="padding-left: 2rem; padding-right: 2rem; text-align: center" >При заказе двух окон - маскитная сетка в подарок</h2>
+  </div>
   </div>
 </template>
 

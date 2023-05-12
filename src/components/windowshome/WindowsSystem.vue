@@ -33,6 +33,7 @@ export default {
   align-items: center;
 }
 .windows-system-image{
+  width: 100%;
   max-width: 560px;
 }
 .steclo-paket{

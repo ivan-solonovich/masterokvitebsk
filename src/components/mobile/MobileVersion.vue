@@ -2,6 +2,7 @@
 <div class="mobile ">
   <RedLinePromo/>
   <NavBar/>
+  <ContactContainerMobile/>
  <router-view></router-view>
 </div>
 </template>
@@ -10,6 +11,7 @@
 
 import RedLinePromo from "@/components/others/RedLinePromo";
 import NavBar from "@/components/navbar/NavBar";
+import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
 
 
 
@@ -18,6 +20,7 @@ import NavBar from "@/components/navbar/NavBar";
 export default {
   name: "MobileVersion",
   components: {
+    ContactContainerMobile,
 
     NavBar,
     RedLinePromo}

@@ -70,6 +70,10 @@ export default {
   margin-bottom: 1rem;
 
 }
+a{
+  cursor: pointer;
+  text-decoration: none;
+}
 .menu-item{
   list-style: none;
   cursor: pointer;

@@ -47,8 +47,8 @@
         </div>
 
       </nav>
-    <ContactContainerMobile/>
 
+    <hr style="width: 100%">
 
 
   </div>
@@ -56,23 +56,28 @@
 
 <script>
 import LogoContainerMobile from "@/components/mobile/mobileMenu/LogoContainerMobile";
-import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
+
 
 
 export default {
   name: "NavBar",
-  components: {ContactContainerMobile, LogoContainerMobile}
+  components: { LogoContainerMobile}
 }
 </script>
 
 <style scoped>
 .main-nav{
-  padding-bottom: 3rem;
+  margin-bottom: 1rem;
 
 }
 .menu-item{
   list-style: none;
   cursor: pointer;
   text-decoration: none;
+}
+@media only screen and (max-width: 820px) {
+  .main-nav{
+    margin-bottom: 3.5rem;
+  }
 }
 </style>

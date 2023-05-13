@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid gallery-wrapper">
     <div class="container">
-      <h3 style="text-align: center; color: crimson">Наши работы</h3>
+      <h3 style="text-align: center; color: crimson">Галерея наших работ</h3>
     </div>
     <swiper
         :effect="'coverflow'"
@@ -28,51 +28,95 @@
     >
       <swiper-slide
       ><img
-          src="../../assets/ourWorks/arcks/photo_2023-03-20_08-12-01.jpg" loading="lazy"/></swiper-slide
+          src="../../assets/ourWorks/windows/photo_2023-05-09_20-03-18.jpg" loading="lazy"/></swiper-slide
       ><swiper-slide
     ><img
         src="../../assets/ourWorks/windows/photo_2023-03-20_08-12-20.jpg" loading="lazy"/></swiper-slide
     >
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41.jpg" loading="lazy"/>
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-16-54.jpg" loading="lazy"/>
       </swiper-slide>
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-00.jpg" loading="lazy"/>
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-17-59.jpg" loading="lazy"/>
       </swiper-slide>
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/entranseDoor/photo_2023-03-20_08-28-21.jpg" loading="lazy"/>
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-21-25.jpg" loading="lazy"/>
       </swiper-slide>
       <swiper-slide
       ><img
-          src="../../assets/ourWorks/windows/photo_2023-03-20_08-15-18.jpg" loading="lazy"/></swiper-slide
+          src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-15(2).jpg" loading="lazy"/></swiper-slide
       ><swiper-slide
     ><img
-        src="../../assets/ourWorks/windows/photo_2023-03-20_08-16-54.jpg" loading="lazy"/></swiper-slide
-    ><swiper-slide
-    ><img
-        src="../../assets/ourWorks/windows/photo_2023-03-20_08-17-59.jpg" loading="lazy"/></swiper-slide
-    ><swiper-slide
-    ><img
-        src="../../assets/ourWorks/windows/photo_2023-03-20_08-21-25.jpg" loading="lazy"/></swiper-slide
+        src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-15(3).jpg" loading="lazy"/></swiper-slide
     ><swiper-slide
     ><img
         src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-15.jpg" loading="lazy"/></swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/balcon/photo_2023-03-20_08-13-18.jpg" loading="lazy"/></swiper-slide
+        src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-33.jpg" loading="lazy"/></swiper-slide
+    ><swiper-slide
+    ><img
+        src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-57.jpg" loading="lazy"/></swiper-slide
+    ><swiper-slide
+    ><img
+        src="../../assets/ourWorks/windows/photo_2023-03-20_08-25-52.jpg" loading="lazy"/></swiper-slide
     >
       <swiper-slide
-      ><img src="../../assets/ourWorks/balcon/photo_2023-03-20_08-20-43.jpg" loading="lazy"/></swiper-slide>
+      ><img src="../../assets/ourWorks/windows/photo_2023-03-20_08-27-28.jpg" loading="lazy"/></swiper-slide>
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-15(2).jpg" loading="lazy"/>
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-29-10.jpg" loading="lazy"/>
       </swiper-slide>
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/windows/photo_2023-03-20_08-22-15(3).jpg" loading="lazy"/>
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-30-36.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-31-34(2).jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-31-34.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-32-09.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-36-39.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-03-20_08-37-08.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-05-09_20-02-56.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-05-09_20-03-10.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-05-09_20-09-16.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-05-09_20-09-21.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-05-09_20-09-24.jpg" loading="lazy"/>
+      </swiper-slide>
+      <swiper-slide>
+        <img
+            src="../../assets/ourWorks/windows/photo_2023-05-09_20-09-28.jpg" loading="lazy"/>
       </swiper-slide>
     </swiper>
     <div class="container">

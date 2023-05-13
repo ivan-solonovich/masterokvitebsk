@@ -35,7 +35,9 @@
                 </router-link>
               </li>
               <li class="nav-item">
+                <router-link class="menu-item" :to="{name:'arcks'}" active-class="none">
                 <a class="nav-link" href="#">Арки</a>
+                </router-link>
               </li>
               <li class="nav-item">
                 <router-link class="menu-item" :to="{name:'knob'}" active-class="none">
@@ -67,7 +69,7 @@ export default {
 
 <style scoped>
 .main-nav{
-  margin-bottom: 1rem;
+
 
 }
 a{

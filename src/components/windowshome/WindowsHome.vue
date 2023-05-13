@@ -7,7 +7,9 @@
   <WindowsContent/>
   <WindowsSystem/>
   <OtlivOtkos/>
+  <WindowsGallery/>
   <SocialNetworks/>
+  <ContactContainerMobile/>
 </div>
 </template>
 
@@ -19,12 +21,25 @@ import ZamerOkna from "@/components/windowshome/ZamerOkna";
 import UstanovkaOkna from "@/components/windowshome/UstanovkaOkna";
 import OtlivOtkos from "@/components/windowshome/OtlivOtkos";
 import SocialNetworks from "@/components/networks/SocialNetworks";
+import WindowsGallery from "@/components/windowshome/WindowsGallery";
+import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
+
 export default {
   name: "WindowsHome",
-  components: {SocialNetworks, OtlivOtkos, UstanovkaOkna, ZamerOkna, WindowsSystem, WindowsContent, RedLineSecond}
+  components: {
+    ContactContainerMobile,
+    WindowsGallery,
+
+
+    SocialNetworks, OtlivOtkos, UstanovkaOkna, ZamerOkna, WindowsSystem, WindowsContent, RedLineSecond}
 }
 </script>
 
 <style scoped>
-
+.windows-home{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
 </style>

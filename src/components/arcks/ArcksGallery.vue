@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid gallery-wrapper">
     <div class="container">
-      <h3 style="text-align: center; color: crimson">Галерея нвших работ</h3>
+      <h3 style="text-align: center; color: crimson">Галерея наших работ</h3>
     </div>
     <swiper
         :effect="'coverflow'"

@@ -30,17 +30,19 @@
     </router-link>
 
   </div>
+  <InsideGalleryWrapper/>
 </div>
 </template>
 
 <script>
 import doorseries from "@/data/doorseries.json";
 import DoorBenefit from "@/components/door-inside/DoorBenefit";
+import InsideGalleryWrapper from "@/components/door-inside/InsideGalleryWrapper";
 
 
 export default {
   name: "DoorInsideSeries",
-  components: {DoorBenefit},
+  components: {InsideGalleryWrapper, DoorBenefit},
   data() {
     return {
       doorSeries: doorseries,

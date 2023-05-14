@@ -6,7 +6,7 @@
 
     <router-link class="door-inside-series-link"  :to="{name:'standart'}">
       <div class="door-series">
-        <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_15.jpg" alt="">
+        <img class="door-series-img" src="../../assets/door-inside/door-series/MODEL_15.jpg" alt="Серия входных дверей Стандарт">
         <h5 style="text-align: center">Серия Стандарт</h5>
         <h5 style="text-align: center; color: crimson">Класика</h5>
       </div>
@@ -14,7 +14,7 @@
 
     <router-link class="door-inside-series-link"  :to="{name:'blanko'}">
       <div class="door-series">
-        <img class="door-series-img" src="../../assets/door-inside/door-series/blanko_07.jpg" alt="">
+        <img class="door-series-img" src="../../assets/door-inside/door-series/blanko_07.jpg" alt="Серия входных дверей Бланко">
         <h5 style="text-align: center">Серия Бланко</h5>
         <h5 style="text-align: center; color: crimson">Демократичный стиль</h5>
       </div>
@@ -23,14 +23,14 @@
 
     <router-link class="door-inside-series-link"  :to="{name:'armany'}">
     <div class="door-series">
-      <img class="door-series-img" src="../../assets/door-inside/door-series/Amati_15.jpg" alt="">
+      <img class="door-series-img" src="../../assets/door-inside/door-series/Amati_15.jpg" alt="Серия входных дверей Армани">
       <h5 style="text-align: center">Серия Армани</h5>
       <h5 style="text-align: center; color: crimson">Современный стиль</h5>
     </div>
     </router-link>
 
   </div>
-  <InsideGalleryWrapper/>
+  <InsideGalleryWrapper style="margin-top: 2rem; margin-bottom: 1rem;"></InsideGalleryWrapper>
 </div>
 </template>
 

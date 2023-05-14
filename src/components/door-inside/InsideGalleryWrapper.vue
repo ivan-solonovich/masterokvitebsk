@@ -28,98 +28,98 @@
     >
       <swiper-slide
       ><img
-          src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41(2).jpg" loading="lazy"/></swiper-slide
+          src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41(2).jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/></swiper-slide
       ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41(3).jpg" loading="lazy"/></swiper-slide
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41(3).jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/></swiper-slide
     >
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41.jpg" loading="lazy"/>
+            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-11-41.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
       </swiper-slide>
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-13-52.jpg" loading="lazy"/>
+            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-13-52.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
       </swiper-slide>
       <swiper-slide>
         <img
-            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-14-37.jpg" loading="lazy"/>
+            src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-14-37.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
       </swiper-slide>
       <swiper-slide
       ><img
-          src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-00.jpg" loading="lazy"/>
+          src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-00.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
       </swiper-slide
       ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-00(2).jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-00(2).jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-48.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-15-48.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-16-03.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-16-03.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-16-21.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-16-21.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-16-41.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-16-41.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-17-21.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-17-21.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-17-40.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-17-40.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-20-07.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-20-07.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-24-44.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-24-44.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-30-23(2).jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-30-23(2).jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-30-23.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-30-23.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-35-02.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-35-02.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-37-24.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-37-24.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-37-57.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-37-57.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-40-04.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-03-20_08-40-04.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-05-09_20-00-18.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-05-09_20-00-18.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-05-09_20-03-22.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-05-09_20-03-22.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     ><swiper-slide
     ><img
-        src="../../assets/ourWorks/doorInside/photo_2023-05-09_20-03-32.jpg" loading="lazy"/>
+        src="../../assets/ourWorks/doorInside/photo_2023-05-09_20-03-32.jpg" loading="lazy" alt="Нашиработы межкомнатные двери"/>
     </swiper-slide
     >
     </swiper>

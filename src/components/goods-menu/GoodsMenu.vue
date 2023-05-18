@@ -14,21 +14,24 @@
                     <h4 class="name-point">Окна</h4>
                   </div>
               </router-link>
+            <router-link class="menu-item col-sm-12 col-6 icon-point p-3 name-point" :to="{name:'entrance-door'}" active-class="none">
                 <div class=" col-sm-12 col-6 icon-point p-3">
                   <img class="goods-menu-image" src="../../assets/windows/door-outside.jpg" alt="">
                   <h4 class="name-point">Двери входные</h4>
                 </div>
+            </router-link>
             <router-link class="menu-item col-sm-12 col-6 icon-point p-3 name-point" :to="{name:'doorsInside'}" active-class="none">
                   <div class=" col-sm-12 col-6 icon-point p-3">
                     <img class="goods-menu-image" src="../../assets/windows/door-inside.jpg" alt="">
                     <h4 class="name-point">Двери межкомнатные</h4>
                   </div>
                 </router-link>
+            <router-link class="menu-item col-sm-12 col-6 icon-point p-3 name-point" :to="{name:'arcks'}" active-class="none">
                 <div class=" col-sm-12 col-6 icon-point p-3">
                   <img class="goods-menu-image" src="../../assets/windows/arcs.jpg" alt="">
                   <h4 class="name-point">Арки</h4>
                 </div>
-
+            </router-link>
                 <div class=" col-sm-12 col-6 icon-point p-3">
                   <img class="goods-menu-image" src="../../assets/windows/teplyj-balkon.jpg" alt="">
                   <h4 class="name-point">Остекление балконов</h4>

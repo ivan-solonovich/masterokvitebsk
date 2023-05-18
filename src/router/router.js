@@ -71,6 +71,15 @@ import DoorKnobWrapper from "@/components/knob/DoorKnobWrapper";
 import ArcksContainer from "@/components/arcks/ArcksContainer";
 import ArcksMilan from "@/components/arcks/ArcksMilan";
 import ArcksPalermo from "@/components/arcks/ArcksPalermo";
+import EntranceDoorWrapper from "@/components/entrance-door/EntranceDoorWrapper";
+import EntranceDoorGarda from "@/components/entrance-door/EntranceDoorGarda";
+import EntranceDoorStaller from "@/components/entrance-door/EntranceDoorStaller";
+import EntranceDoorYochcar from "@/components/entrance-door/EntranceDoorYochcar";
+import StroyGost5 from "@/components/entrance-door/garda/strygost/StroyGost5";
+import StroyGost5Met from "@/components/entrance-door/garda/stroygost5-met/StroyGost5-met";
+import StroyGost5Sylver from "@/components/entrance-door/garda/stroygost5sylver/StroyGost5Sylver";
+
+import GardaDoor8 from "@/components/entrance-door/garda/garda8/GardaDoor8";
 
 const routes =
     [
@@ -475,6 +484,60 @@ const routes =
             path: '/arcks/arcks-palermo',
             name: 'arcks-palermo',
             component: ArcksPalermo
+
+        },
+        {
+            path: '/entrance-door',
+            name: 'entrance-door',
+            component: EntranceDoorWrapper
+
+        },
+        {
+            path: '/entrance-door/garda',
+            name: 'entrance-door-garda',
+            component: EntranceDoorGarda
+
+        },
+        {
+            path: '/entrance-door/staller',
+            name: 'entrance-door-staller',
+            component: EntranceDoorStaller
+
+        },
+        {
+            path: '/entrance-door/staller-comfort',
+            name: 'entrance-door-staller-comfort',
+            component: EntranceDoorStaller
+
+        },
+        {
+            path: '/entrance-door/yochcar',
+            name: 'entrance-door-yochcar',
+            component: EntranceDoorYochcar
+
+        },
+        {
+            path: '/entrance-door/garda-stroygost5',
+            name: 'entrance-door-garda-stroygost5',
+            component: StroyGost5
+
+        },
+        {
+            path: '/entrance-door/garda-stroygost5met',
+            name: 'entrance-door-garda-stroygost5met',
+            component: StroyGost5Met
+
+        },
+        {
+            path: '/entrance-door/garda-stroygost5syl',
+            name: 'entrance-door-garda-stroygost5syl',
+            component: StroyGost5Sylver
+
+        },
+        {
+            path: '/entrance-door/garda-8',
+            name: 'entrance-door-garda-8',
+            component: GardaDoor8
 
         },
     ]

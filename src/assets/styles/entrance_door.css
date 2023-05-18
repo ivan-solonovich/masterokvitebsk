@@ -1,0 +1,42 @@
+.entrance-door-details-wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.entrance-door-details-title{
+    text-align: center;
+    color: crimson;
+}
+.entrance-door-series-img-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.door-series-img{
+    width: 160px;
+    height: auto;
+}
+.entrance-door-details-description{
+    width: 100%;
+    display: flex;
+    padding: 2rem;
+    flex-direction: column;
+    background-color: darkgrey;
+}
+.entrance-door-series-content-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.entrance-door-details{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}

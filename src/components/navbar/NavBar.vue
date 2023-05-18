@@ -26,9 +26,11 @@
               <li class="nav-item">
                 <a class="nav-link" href="#">Остеклениие балконов</a>
               </li>
+              <router-link class="menu-item" :to="{name:'entrance-door'}" active-class="none">
               <li class="nav-item">
                 <a class="nav-link" href="#">Двери входные</a>
               </li>
+              </router-link>
               <li class="nav-item">
                 <router-link class="menu-item" :to="{name:'doorsInside'}" active-class="none">
                 <a class="nav-link" href="#">Двери межкомнатные</a>

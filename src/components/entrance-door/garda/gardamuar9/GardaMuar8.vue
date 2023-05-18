@@ -1,25 +1,25 @@
 <template>
   <div class="entrance-door-details-wrapper">
     <BackToGarda/>
-    <h2 class="entrance-door-details-title">ГАРДА 8 ММ</h2>
+    <h2 class="entrance-door-details-title">ГАРДА МУАР 8 ММ</h2>
     <div class="entrance-door-series-img-container" style="flex-wrap: wrap">
-      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ВХОДНАЯДВЕРЬГАРДА8ММ_1.jpg" loading="lazy" alt="Гарда 8 мм">
-      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ВХОДНАЯДВЕРЬГАРДА8ММ_2.jpg" loading="lazy" alt="Гарда 8 мм">
-      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ВХОДНАЯДВЕРЬГАРДА8ММ_3.jpg" loading="lazy" alt="Гарда 8 мм">
-      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ВХОДНАЯДВЕРЬГАРДА8ММ_4.jpg" loading="lazy" alt="Гарда 8 мм">
+      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ГАРДАМУАР8_1.webp" loading="lazy" alt="Гарда 8 мм">
+      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ГАРДАМУАР8_2.webp" loading="lazy" alt="Гарда 8 мм">
+      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ГАРДАМУАР8_3.webp" loading="lazy" alt="Гарда 8 мм">
+      <img class="door-series-img" src="../../../../assets/entrance-door/garda/ГАРДАМУАР8_4.webp" loading="lazy" alt="Гарда 8 мм">
     </div>
     <div class="entrance-door-series-content-container">
-      <h6 class="door-series-desc" ><span>от</span> 549 руб</h6>
-      <h6 class="door-series-desc" ><span></span>ГАРДА 8 ММ</h6>
+      <h6 class="door-series-desc" ><span>от</span> 561 руб</h6>
+      <h6 class="door-series-desc" ><span></span>ГАРДА МУАР 8 ММ</h6>
     </div>
     <div class="entrance-door-details-description">
-      <p>Входная дверь ГАРДА 8 ММ – один из лучших вариантов практичной и функциональной входной двери. В производстве
+      <p>Входная дверь ГАРДА МУАР 8 ММ – один из лучших вариантов практичной и функциональной входной двери. В производстве
         используются надежные материалы, изделие хорошо подходит для белорусского климата.</p>
       <p>Ключевая особенность модели атмосферостойкое покрытие. Порошково-полимерный состав наружной стороны устойчив
         к непогоде и механическим воздействиям эксплуатации.
         Стройгост 5 РФ можно устанавливать в дома с прямым выходом на улицу. Это могут быть загородные частные дома,
         летние дачи, офисы и склады.</p>
-      <p>Часто хозяева предпочитают устанавливать ГАРДА 8 ММ в качестве входа в квартиру, ведь модель обладает
+      <p>Часто хозяева предпочитают устанавливать ГАРДА МУАР 8 ММ в качестве входа в квартиру, ведь модель обладает
         всем необходимым набором надежной и безопасной двери. Дверное полотно с утеплителем и уплотнителем защищает от
         излишков шума с общей площадки многоквартирного дома. </p>
     </div>
@@ -33,11 +33,11 @@
         </tr>
         <tr>
           <td>Цвет внешний</td>
-          <td>Медный антик</td>
+          <td>Черный муар</td>
         </tr>
         <tr>
           <td>Цвет внутренний</td>
-          <td> Белый ясень, Венге, Рустикальный дуб</td>
+          <td> Белый ясень, Венге, Лиственница беж.</td>
         </tr>
         <tr>
           <td>Размер</td>
@@ -80,7 +80,7 @@
 import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
 import BackToGarda from "@/components/entrance-door/garda/BackToGarda";
 export default {
-  name: "GardaDoor8",
+  name: "GardaMuar8",
   components: {BackToGarda, ContactContainerMobile}
 }
 </script>

@@ -4,6 +4,9 @@
           <h2 class="door-title"> Входные двери Гарда</h2>
         </div>
           <EntranceDoorBack/>
+    <h5 style="text-align: center; background-color: #0b6efd; margin: 1rem; padding: .5rem; color: white;">Для большинства
+      дверей цвет внутренней отделки имеет несколько вариантов. Уточняйте возможные варианты в интересующих вас моделях.
+      Или проконсультируйтесь у нашего специалиста.</h5>
           <div class=" entrance-door-container">
             <div class="entrance-door-series">
               <router-link  :to="{name:'entrance-door-garda-stroygost5'}" active-class="none">
@@ -50,7 +53,20 @@
                 </div>
                 <div class="entrance-door-series-content-container">
                   <h6 class="door-series-desc" ><span>от</span> 549 руб</h6>
-                  <h6 class="door-series-desc" ><span></span>ВХОДНАЯ ДВЕРЬ ГАРДА 8 ММ</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА 8 ММ</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-muar-8'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГАРДАМУАР8_1.webp" loading="lazy" alt="Входные двери Гарда ГАРДА 8">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГАРДАМУАР8_2.webp" loading="lazy" alt="Входные двери Гарда ГАРДА 8">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 561 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА МУАР 8 ММ</h6>
                 </div>
               </router-link>
             </div>

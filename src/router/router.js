@@ -80,6 +80,7 @@ import StroyGost5Met from "@/components/entrance-door/garda/stroygost5-met/Stroy
 import StroyGost5Sylver from "@/components/entrance-door/garda/stroygost5sylver/StroyGost5Sylver";
 
 import GardaDoor8 from "@/components/entrance-door/garda/garda8/GardaDoor8";
+import GardaMuar8 from "@/components/entrance-door/garda/gardamuar9/GardaMuar8";
 
 const routes =
     [
@@ -538,6 +539,12 @@ const routes =
             path: '/entrance-door/garda-8',
             name: 'entrance-door-garda-8',
             component: GardaDoor8
+
+        },
+        {
+            path: '/entrance-door/garda-muar-8',
+            name: 'entrance-door-garda-muar-8',
+            component: GardaMuar8
 
         },
     ]

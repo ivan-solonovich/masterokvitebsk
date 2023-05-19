@@ -81,6 +81,9 @@ import StroyGost5Sylver from "@/components/entrance-door/garda/stroygost5sylver/
 
 import GardaDoor8 from "@/components/entrance-door/garda/garda8/GardaDoor8";
 import GardaMuar8 from "@/components/entrance-door/garda/gardamuar9/GardaMuar8";
+import GardaMuarCarga6 from "@/components/entrance-door/garda/gardamuarcarga6/GardaMuarCarga6";
+import GardaMuar10 from "@/components/entrance-door/garda/gardamuar10/GardaMuar10";
+import Garda8Inside from "@/components/entrance-door/garda/garda8inside/Garda8Inside";
 
 const routes =
     [
@@ -545,6 +548,24 @@ const routes =
             path: '/entrance-door/garda-muar-8',
             name: 'entrance-door-garda-muar-8',
             component: GardaMuar8
+
+        },
+        {
+            path: '/entrance-door/garda-muar-6',
+            name: 'entrance-door-garda-muar-6',
+            component: GardaMuarCarga6
+
+        },
+        {
+            path: '/entrance-door/garda-muar-10',
+            name: 'entrance-door-garda-muar-10',
+            component: GardaMuar10
+
+        },
+        {
+            path: '/entrance-door/garda-8-ins',
+            name: 'entrance-door-garda-8-ins',
+            component: Garda8Inside
 
         },
     ]

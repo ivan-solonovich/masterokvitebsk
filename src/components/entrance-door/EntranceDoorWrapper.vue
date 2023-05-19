@@ -63,6 +63,12 @@ export default {
   padding-right: 2rem;
   padding-left: 2rem;
 }
+.door-series{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
 .door-series-img{
   width: 300px;
   height: auto;
@@ -71,6 +77,7 @@ export default {
   cursor: pointer;
   text-decoration: none;
   color: #198754;
-
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 </style>

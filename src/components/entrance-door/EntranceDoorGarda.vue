@@ -110,6 +110,71 @@
                 </div>
               </router-link>
             </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-muar-lazer'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/МУАРЦАРГАЛАЗЕР_1.webp" loading="lazy" alt="Входные двери ГАРДА МУАР ЦАРГА ЛАЗЕР">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/МУАРЦАРГАЛАЗЕР_2.webp" loading="lazy" alt="Входные двери ГАРДА МУАР ЦАРГА ЛАЗЕР">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 747 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА МУАР ЦАРГА ЛАЗЕР</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-chicago'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ЧИКАГОNEW_1.webp" loading="lazy" alt="Входные двери ГАРДА ЧИКАГО NEW">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ЧИКАГОNEW_2.webp" loading="lazy" alt="Входные двери ГАРДА ЧИКАГО NEW">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 788 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА ЧИКАГО NEW</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-9-sylver'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГАРДА9СЕРЕБРО_1.webp" loading="lazy" alt="Входные двери ГАРДА 9 СЕРЕБРО ЦАРГА">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГАРДА9СЕРЕБРО_2.webp" loading="lazy" alt="Входные двери ГАРДА 9 СЕРЕБРО ЦАРГА">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 845 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА 9 СЕРЕБРО ЦАРГА</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-9-sylver-mirror'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГАРДА9СЕРЕБРОЗЕРКАЛО_1.webp" loading="lazy" alt="Входные двери ГАРДА 9 СЕРЕБРО ЗЕРКАЛО">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГАРДА9СЕРЕБРОЗЕРКАЛО_2.webp" loading="lazy" alt="Входные двери ГАРДА 9 СЕРЕБРО ЗЕРКАЛО">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 866 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА 9 СЕРЕБРО ЗЕРКАЛО</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-barcelona'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/БАРСЕЛОНА_1.webp" loading="lazy" alt="Входные двери ГАРДА БАРСЕЛОНА ЦАРГА NEW">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/БАРСЕЛОНА_2.webp" loading="lazy" alt="Входные двери ГАРДА БАРСЕЛОНА ЦАРГА NEW">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 911 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА БАРСЕЛОНА ЦАРГА NEW</h6>
+                </div>
+              </router-link>
+            </div>
         </div>
 <ContactContainerMobile/>
   </div>

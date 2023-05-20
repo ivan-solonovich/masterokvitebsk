@@ -175,6 +175,58 @@
                 </div>
               </router-link>
             </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-boston'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/Бостон_1.webp" loading="lazy" alt="Входные двери ГАРДА БОСТОН">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/Бостон_2.webp" loading="lazy" alt="Входные двери ГАРДА БОСТОН">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 1024 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА БОСТОН</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-florida'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/Флорида_1.webp" loading="lazy" alt="Входные двери ГАРДА ФЛОРИДА ЗЕРКАЛО ФАЦЕТ">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/Флорида_2.webp" loading="lazy" alt="Входные двери ГАРДА ФЛОРИДА ЗЕРКАЛО ФАЦЕТ">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 1063 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА ФЛОРИДА ЗЕРКАЛО ФАЦЕТ</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-duble'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГардаДвойная_1.webp" loading="lazy" alt="Входные двери ГАРДА 7.5 (ДВУПОЛЬНАЯ)">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/ГардаДвойная_2.webp" loading="lazy" alt="Входные двери ГАРДА 7.5 (ДВУПОЛЬНАЯ)">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 1123 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА 7.5 (ДВУПОЛЬНАЯ)</h6>
+                </div>
+              </router-link>
+            </div>
+            <div class="entrance-door-series">
+              <router-link  :to="{name:'entrance-door-garda-isoterma'}" active-class="none">
+                <div class="entrance-door-series-img-container">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/isoterma_1.webp" loading="lazy" alt="Входные двери ISOTERMA">
+                  <img class="door-series-img" src="../../assets/entrance-door/garda/isoterma_2.webp" loading="lazy" alt="Входные двери ISOTERMA">
+
+                </div>
+                <div class="entrance-door-series-content-container">
+                  <h6 class="door-series-desc" ><span>от</span> 1165 руб</h6>
+                  <h6 class="door-series-desc" ><span></span>ГАРДА ISOTERMA</h6>
+                </div>
+              </router-link>
+            </div>
         </div>
 <ContactContainerMobile/>
   </div>

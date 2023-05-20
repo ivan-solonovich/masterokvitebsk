@@ -89,6 +89,11 @@ import GardaChicagoNew from "@/components/entrance-door/garda/gardachicagonew/Ga
 import Garda9Sylver from "@/components/entrance-door/garda/garda9sylver/Garda9Sylver";
 import Garda9SilverMirror from "@/components/entrance-door/garda/garda9silvermirror/Garda9SilverMirror";
 import GardaBarcelona from "@/components/entrance-door/garda/gardabarcelona/GardaBarcelona";
+import GardaPhenixLines from "@/components/entrance-door/garda/gardaphenix/GardaPhenixLines";
+import GardaBoston from "@/components/entrance-door/garda/boston/GardaBoston";
+import GardaFlorida from "@/components/entrance-door/garda/florida/GardaFlorida";
+import Garda75D from "@/components/entrance-door/garda/garda75d/Garda75D";
+import GardaIsoterma from "@/components/entrance-door/garda/isoterma/GardaIsoterma";
 
 const routes =
     [
@@ -601,6 +606,36 @@ const routes =
             path: '/entrance-door/garda-barcelona',
             name: 'entrance-door-garda-barcelona',
             component: GardaBarcelona
+
+        },
+        {
+            path: '/entrance-door/garda-phenix',
+            name: 'entrance-door-garda-phenix',
+            component: GardaPhenixLines
+
+        },
+        {
+            path: '/entrance-door/garda-boston',
+            name: 'entrance-door-garda-boston',
+            component: GardaBoston
+
+        },
+        {
+            path: '/entrance-door/garda-florida',
+            name: 'entrance-door-garda-florida',
+            component: GardaFlorida
+
+        },
+        {
+            path: '/entrance-door/garda-duble',
+            name: 'entrance-door-garda-duble',
+            component: Garda75D
+
+        },
+        {
+            path: '/entrance-door/garda-isoterma',
+            name: 'entrance-door-garda-isoterma',
+            component: GardaIsoterma
 
         },
     ]

@@ -1,24 +1,24 @@
 <template>
   <div class="entrance-door-details-wrapper">
     <BackToGarda/>
-    <h2 class="entrance-door-details-title">ГАРДА БАРСЕЛОНА ЦАРГА NEW</h2>
+    <h2 class="entrance-door-details-title">ГАРДА ISOTERMA</h2>
     <div class="entrance-door-series-img-container" style="flex-wrap: wrap">
-      <img class="door-series-img" src="../../../../assets/entrance-door/garda/БАРСЕЛОНА_1.webp" loading="lazy" alt="ГАРДА БАРСЕЛОНА ЦАРГА NEW">
-      <img class="door-series-img" src="../../../../assets/entrance-door/garda/БАРСЕЛОНА_2.webp" loading="lazy" alt="ГАРДА БАРСЕЛОНА ЦАРГА NEW">
+      <img class="door-series-img" src="../../../../assets/entrance-door/garda/isoterma_1.webp" loading="lazy" alt="ГАРДА ISOTERMA">
+      <img class="door-series-img" src="../../../../assets/entrance-door/garda/isoterma_2.webp" loading="lazy" alt="ГАРДА ISOTERMA">
 
     </div>
     <div class="entrance-door-series-content-container">
-      <h6 class="door-series-desc" ><span>от</span> 911 руб</h6>
-      <h6 class="door-series-desc" ><span></span>ГАРДА БАРСЕЛОНА ЦАРГА NEW</h6>
+      <h6 class="door-series-desc" ><span>от</span> 1165 руб</h6>
+      <h6 class="door-series-desc" ><span></span>ГАРДА ISOTERMA</h6>
     </div>
     <div class="entrance-door-details-description">
-      <p>Входная дверь ГАРДА БАРСЕЛОНА ЦАРГА NEW – один из лучших вариантов практичной и функциональной входной двери. В производстве
+      <p>Входная дверь ГАРДА ISOTERMA – один из лучших вариантов практичной и функциональной входной двери. В производстве
         используются надежные материалы, изделие хорошо подходит для белорусского климата.</p>
       <p>Ключевая особенность модели атмосферостойкое покрытие. Порошково-полимерный состав наружной стороны устойчив
         к непогоде и механическим воздействиям эксплуатации.
         Стройгост 5 РФ можно устанавливать в дома с прямым выходом на улицу. Это могут быть загородные частные дома,
         летние дачи, офисы и склады.</p>
-      <p>Часто хозяева предпочитают устанавливать ГАРДА БАРСЕЛОНА ЦАРГА NEW в качестве входа в квартиру, ведь модель обладает
+      <p>Часто хозяева предпочитают устанавливать ГАРДА ISOTERMA в качестве входа в квартиру, ведь модель обладает
         всем необходимым набором надежной и безопасной двери. Дверное полотно с утеплителем и уплотнителем защищает от
         излишков шума с общей площадки многоквартирного дома. </p>
     </div>
@@ -28,15 +28,15 @@
         <tbody>
         <tr>
           <td>Толщина двери</td>
-          <td> 95 </td>
+          <td> 110 </td>
         </tr>
         <tr>
           <td>Цвет внешний</td>
-          <td>Венге</td>
+          <td>Медный антик</td>
         </tr>
         <tr>
           <td>Цвет внутренний</td>
-          <td>Лиственница беж.</td>
+          <td>Астана милки </td>
         </tr>
         <tr>
           <td>Размер</td>
@@ -44,11 +44,11 @@
         </tr>
         <tr>
           <td>Применение</td>
-          <td>Квартирная</td>
+          <td>Уличная</td>
         </tr>
         <tr>
           <td>Тип покрытия внутренней панели</td>
-          <td>мдф</td>
+          <td>пвх</td>
         </tr>
         <tr>
           <td>Материал внутренней панели</td>
@@ -79,7 +79,7 @@
 import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
 import BackToGarda from "@/components/entrance-door/garda/BackToGarda";
 export default {
-  name: "GardaBarcelona",
+  name: "GardaIsoterma",
   components: {BackToGarda, ContactContainerMobile}
 }
 </script>

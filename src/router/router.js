@@ -94,6 +94,27 @@ import GardaBoston from "@/components/entrance-door/garda/boston/GardaBoston";
 import GardaFlorida from "@/components/entrance-door/garda/florida/GardaFlorida";
 import Garda75D from "@/components/entrance-door/garda/garda75d/Garda75D";
 import GardaIsoterma from "@/components/entrance-door/garda/isoterma/GardaIsoterma";
+import StallerRafinato from "@/components/entrance-door/staller/raffinato/StallerRafinato";
+import StallerAlba from "@/components/entrance-door/staller/alba/StallerAlba";
+import StallerVita from "@/components/entrance-door/staller/vita/StallerVita";
+import StallerPiano from "@/components/entrance-door/staller/piano/StallerPiano";
+import StallerBrunoGrafit from "@/components/entrance-door/staller/bruno-grafit/StallerBrunoGrafit";
+import StallerLine from "@/components/entrance-door/staller/line/StallerLine";
+import StallerRock from "@/components/entrance-door/staller/rock/StallerRock";
+import StallerTor from "@/components/entrance-door/staller/tor/StallerTor";
+import StallerMilena from "@/components/entrance-door/staller/milena/StallerMilena";
+import StallerToronto from "@/components/entrance-door/staller/toronto/StallerToronto";
+import StallerCvadro from "@/components/entrance-door/staller/cvadro/StallerCvadro";
+import StallerEtna from "@/components/entrance-door/staller/etna/StallerEtna";
+import StallerModerno from "@/components/entrance-door/staller/moderno/StallerModerno";
+import StallerMetro2 from "@/components/entrance-door/staller/metro2/StallerMetro2";
+import StallerNatta from "@/components/entrance-door/staller/natta/StallerNatta";
+import StallerDiona from "@/components/entrance-door/staller/diona/StallerDiona";
+import StallerBetolla from "@/components/entrance-door/staller/betolla/StallerBetolla";
+import StallerLoft from "@/components/entrance-door/staller/loft/StallerLoft";
+import StallerTexas from "@/components/entrance-door/staller/texas/StallerTexas";
+import StallerStilo2 from "@/components/entrance-door/staller/stilo2/StallerStilo2";
+import StallerStilo from "@/components/entrance-door/staller/stilo/StallerStilo";
 
 const routes =
     [
@@ -636,6 +657,132 @@ const routes =
             path: '/entrance-door/garda-isoterma',
             name: 'entrance-door-garda-isoterma',
             component: GardaIsoterma
+
+        },
+        {
+            path: '/entrance-door/staller-rafinato',
+            name: 'entrance-door-staller-rafinato',
+            component: StallerRafinato
+
+        },
+        {
+            path: '/entrance-door/staller-alba',
+            name: 'entrance-door-staller-alba',
+            component: StallerAlba
+
+        },
+        {
+            path: '/entrance-door/staller-vita',
+            name: 'entrance-door-staller-vita',
+            component: StallerVita
+
+        },
+        {
+            path: '/entrance-door/staller-piano',
+            name: 'entrance-door-staller-piano',
+            component: StallerPiano
+
+        },
+        {
+            path: '/entrance-door/staller-bruno-grafit',
+            name: 'entrance-door-staller-bruno-grafit',
+            component: StallerBrunoGrafit
+
+        },
+        {
+            path: '/entrance-door/staller-line',
+            name: 'entrance-door-staller-line',
+            component: StallerLine
+
+        },
+        {
+            path: '/entrance-door/staller-rock',
+            name: 'entrance-door-staller-rock',
+            component: StallerRock
+
+        },
+        {
+            path: '/entrance-door/staller-tor',
+            name: 'entrance-door-staller-tor',
+            component: StallerTor
+
+        },
+        {
+            path: '/entrance-door/staller-milena',
+            name: 'entrance-door-staller-milena',
+            component: StallerMilena
+
+        },
+        {
+            path: '/entrance-door/staller-toronto',
+            name: 'entrance-door-staller-toronto',
+            component: StallerToronto
+
+        },
+        {
+            path: '/entrance-door/staller-cvadro',
+            name: 'entrance-door-staller-cvadro',
+            component: StallerCvadro
+
+        },
+        {
+            path: '/entrance-door/staller-etna',
+            name: 'entrance-door-staller-etna',
+            component: StallerEtna
+
+        },
+        {
+            path: '/entrance-door/staller-moderno',
+            name: 'entrance-door-staller-moderno',
+            component: StallerModerno
+
+        },
+        {
+            path: '/entrance-door/staller-metro2',
+            name: 'entrance-door-staller-metro2',
+            component: StallerMetro2
+
+        },
+        {
+            path: '/entrance-door/staller-natta',
+            name: 'entrance-door-staller-natta',
+            component: StallerNatta
+
+        },
+        {
+            path: '/entrance-door/staller-diona',
+            name: 'entrance-door-staller-diona',
+            component: StallerDiona
+
+        },
+        {
+            path: '/entrance-door/staller-betolla',
+            name: 'entrance-door-staller-betolla',
+            component: StallerBetolla
+
+        },
+        {
+            path: '/entrance-door/staller-loft',
+            name: 'entrance-door-staller-loft',
+            component: StallerLoft
+
+        },
+        {
+            path: '/entrance-door/staller-texas',
+            name: 'entrance-door-staller-texas',
+            component: StallerTexas
+
+        },
+        {
+            path: '/entrance-door/staller-stilo2',
+            name: 'entrance-door-staller-stilo2',
+            component: StallerStilo2
+
+        },
+        {
+            path: '/entrance-door/staller-stilo',
+            name: 'entrance-door-staller-stilo',
+            component: StallerStilo
 
         },
     ]

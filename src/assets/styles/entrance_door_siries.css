@@ -1,0 +1,54 @@
+.entrance-door-garda{
+    width: 100%;
+    display: flex;
+
+    flex-direction: column;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    box-sizing: border-box;
+}
+.main-title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.door-title{
+    color: crimson;
+    padding-bottom: 2rem;
+}
+.entrance-door-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.entrance-door-series{
+    width: 260px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.entrance-door-series-img-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.door-series-img{
+    width: 120px;
+    height: auto;
+}
+.entrance-door-series-content-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

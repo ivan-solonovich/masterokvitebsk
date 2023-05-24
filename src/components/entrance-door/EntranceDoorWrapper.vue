@@ -25,7 +25,7 @@
         <h5 style="text-align: center; color: crimson">от 963 руб</h5>
       </div>
     </router-link>
-    <router-link class="door-inside-series-link"  :to="{name:'entrance-door-staller-comfort'}">
+    <router-link class="door-inside-series-link"  :to="{name:'entrance-door-yochcar'}">
       <div class="door-series">
         <img class="door-series-img" src="../../assets/entrance-door/СерияЙошкар.jpg" alt="Входный двери Серия Йошкар">
         <h5 style="text-align: center">Йошкар</h5>
@@ -33,12 +33,16 @@
       </div>
     </router-link>
   </div>
+  <EntranceGalleryWrapper/>
 </div>
 </template>
 
 <script>
+import EntranceGalleryWrapper from "@/components/entrance-door/EntranceGalleryWrapper";
+
 export default {
-  name: "EntranceDoorWrapper"
+  name: "EntranceDoorWrapper",
+  components:{EntranceGalleryWrapper}
 }
 </script>
 

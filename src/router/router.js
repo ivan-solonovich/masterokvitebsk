@@ -115,6 +115,20 @@ import StallerLoft from "@/components/entrance-door/staller/loft/StallerLoft";
 import StallerTexas from "@/components/entrance-door/staller/texas/StallerTexas";
 import StallerStilo2 from "@/components/entrance-door/staller/stilo2/StallerStilo2";
 import StallerStilo from "@/components/entrance-door/staller/stilo/StallerStilo";
+import EntranceDoorStallerComfort from "@/components/entrance-door/EntranceDoorStallerComfort";
+import StallerComfortKeln from "@/components/entrance-door/stallerComfort/keln/StallerComfortKeln";
+import StallerComfortDresden from "@/components/entrance-door/stallerComfort/dresden/StallerComfortDresden";
+import StallerComfortGamburg from "@/components/entrance-door/stallerComfort/gamburg/StallerComfortGamburg";
+import StallerComfortNois from "@/components/entrance-door/stallerComfort/nois/StallerComfortNois";
+import StallerComfortBavaria from "@/components/entrance-door/stallerComfort/bavaria/StallerComfortBavaria";
+import StallerComfortAlen from "@/components/entrance-door/stallerComfort/alen/StallerComfortAlen";
+import StallerComfortBaden from "@/components/entrance-door/stallerComfort/baden/StallerComfortBaden";
+import StallerComfortStutgart from "@/components/entrance-door/stallerComfort/stutgart/StallerComfortStutgart";
+import StallerComfortMunhen from "@/components/entrance-door/stallerComfort/munhen/StallerComfortMunhen";
+import StallerComfortHanover from "@/components/entrance-door/stallerComfort/hanover/StallerComfortHanover";
+import StallerComfortBerlin from "@/components/entrance-door/stallerComfort/berlin/StallerComfortBerlin";
+import StallerComfortMarburg from "@/components/entrance-door/stallerComfort/marburg/StallerComfortMarburg";
+import YochkarYochcar from "@/components/entrance-door/yochkar/YochkarYochcar";
 
 const routes =
     [
@@ -542,7 +556,7 @@ const routes =
         {
             path: '/entrance-door/staller-comfort',
             name: 'entrance-door-staller-comfort',
-            component: EntranceDoorStaller
+            component: EntranceDoorStallerComfort
 
         },
         {
@@ -783,6 +797,84 @@ const routes =
             path: '/entrance-door/staller-stilo',
             name: 'entrance-door-staller-stilo',
             component: StallerStilo
+
+        },
+        {
+        path: '/entrance-door/staller-comfort-keln',
+        name: 'entrance-door-staller-comfort-keln',
+        component: StallerComfortKeln
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-dresden',
+            name: 'entrance-door-staller-comfort-dresden',
+            component: StallerComfortDresden
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-gamburg',
+            name: 'entrance-door-staller-comfort-gamburg',
+            component: StallerComfortGamburg
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-nois',
+            name: 'entrance-door-staller-comfort-nois',
+            component: StallerComfortNois
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-bavaria',
+            name: 'entrance-door-staller-comfort-bavaria',
+            component: StallerComfortBavaria
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-alen',
+            name: 'entrance-door-staller-comfort-alen',
+            component: StallerComfortAlen
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-baden',
+            name: 'entrance-door-staller-comfort-baden',
+            component: StallerComfortBaden
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-stutgart',
+            name: 'entrance-door-staller-comfort-stutgart',
+            component: StallerComfortStutgart
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-munhen',
+            name: 'entrance-door-staller-comfort-munhen',
+            component: StallerComfortMunhen
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-hanover',
+            name: 'entrance-door-staller-comfort-hanover',
+            component: StallerComfortHanover
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-berlin',
+            name: 'entrance-door-staller-comfort-berlin',
+            component: StallerComfortBerlin
+
+        },
+        {
+            path: '/entrance-door/staller-comfort-marburg',
+            name: 'entrance-door-staller-comfort-marburg',
+            component: StallerComfortMarburg
+
+        },
+        {
+            path: '/entrance-door/yochcar-1',
+            name: 'entrance-door-yochcar-1',
+            component: YochkarYochcar
 
         },
     ]

@@ -3,6 +3,7 @@
   <div class="main-title">
     <h2 class="arcks-title"> Входные двери</h2>
   </div>
+  <DoorBenefit/>
   <div class="container door-series-container">
     <router-link class="door-inside-series-link"  :to="{name:'entrance-door-garda'}">
       <div class="door-series">
@@ -43,10 +44,11 @@
 import EntranceGalleryWrapper from "@/components/entrance-door/EntranceGalleryWrapper";
 import SocialNetworks from "@/components/networks/SocialNetworks";
 import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
+import DoorBenefit from "@/components/door-inside/DoorBenefit";
 
 export default {
   name: "EntranceDoorWrapper",
-  components:{ContactContainerMobile, SocialNetworks, EntranceGalleryWrapper}
+  components:{ContactContainerMobile, SocialNetworks, EntranceGalleryWrapper, DoorBenefit}
 }
 </script>
 

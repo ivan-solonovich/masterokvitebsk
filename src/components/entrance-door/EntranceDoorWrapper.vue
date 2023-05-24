@@ -34,15 +34,19 @@
     </router-link>
   </div>
   <EntranceGalleryWrapper/>
+  <SocialNetworks/>
+  <ContactContainerMobile/>
 </div>
 </template>
 
 <script>
 import EntranceGalleryWrapper from "@/components/entrance-door/EntranceGalleryWrapper";
+import SocialNetworks from "@/components/networks/SocialNetworks";
+import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
 
 export default {
   name: "EntranceDoorWrapper",
-  components:{EntranceGalleryWrapper}
+  components:{ContactContainerMobile, SocialNetworks, EntranceGalleryWrapper}
 }
 </script>
 

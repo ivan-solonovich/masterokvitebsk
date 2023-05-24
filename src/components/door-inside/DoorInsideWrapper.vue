@@ -7,7 +7,9 @@
   <div class="container">
 
    <DoorInsideSeries/>
+    <SocialNetworks/>
   </div>
+
   <ContactContainerMobile/>
 </div>
 </template>
@@ -16,9 +18,10 @@
 
 import DoorInsideSeries from "@/components/door-inside/DoorInsideSeries";
 import ContactContainerMobile from "@/components/mobile/mobileMenu/ContactContainerMobile";
+import SocialNetworks from "@/components/networks/SocialNetworks";
 export default {
   name: "DoorInsideWrapper",
-  components: {ContactContainerMobile, DoorInsideSeries},
+  components: {SocialNetworks, ContactContainerMobile, DoorInsideSeries},
 }
 </script>
 

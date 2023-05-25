@@ -24,7 +24,9 @@
               </li>
 
               <li class="nav-item">
+                <router-link class="menu-item" :to="{name:'balcon-home'}" active-class="none">
                 <a class="nav-link" href="#">Остеклениие балконов</a>
+                </router-link>
               </li>
               <router-link class="menu-item" :to="{name:'entrance-door'}" active-class="none">
               <li class="nav-item">

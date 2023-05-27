@@ -130,6 +130,8 @@ import StallerComfortBerlin from "@/components/entrance-door/stallerComfort/berl
 import StallerComfortMarburg from "@/components/entrance-door/stallerComfort/marburg/StallerComfortMarburg";
 import YochkarYochcar from "@/components/entrance-door/yochkar/YochkarYochcar";
 import BalconWrapper from "@/components/balcon/BalconWrapper";
+import BalconCold from "@/components/balcon/BalconCold";
+import BalconHot from "@/components/balcon/BalconHot";
 
 const routes =
     [
@@ -882,6 +884,18 @@ const routes =
             path: '/balcon/balcon-home',
             name: 'balcon-home',
             component: BalconWrapper
+
+        },
+        {
+            path: '/balcon/balcon-home-cold',
+            name: 'balcon-home-cold',
+            component: BalconCold
+
+        },
+        {
+            path: '/balcon/balcon-home-hot',
+            name: 'balcon-home-hot',
+            component: BalconHot
 
         },
     ]

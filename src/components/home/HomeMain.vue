@@ -26,9 +26,11 @@ import SocialNetworks from "@/components/networks/SocialNetworks";
 import AndOther from "@/components/and-other/AndOther";
 import CaruselMain from "@/components/carusel/CaruselMain";
 import GalleryWrapper from "@/components/gallery/GalleryWrapper";
+
 export default {
   name: "HomeMain",
   components: {
+
     GalleryWrapper,
     CaruselMain,
     AndOther,

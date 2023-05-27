@@ -6,12 +6,14 @@
   <div class="mobile-wrapper" v-show="isMobile">
    <MobileVersion/>
   </div>
+  <FooterMain/>
 </div>
 </template>
 
 <script>
 import MobileVersion from "@/components/mobile/MobileVersion";
 import DesktopVersion from "@/components/desktop/DesktopVersion";
+import FooterMain from "@/components/footer/FooterMain";
 export default {
   name: "MainWrapper",
   data(){
@@ -20,6 +22,7 @@ export default {
     }
   },
   components: {
+    FooterMain,
     DesktopVersion,
     MobileVersion
   },

@@ -1,7 +1,8 @@
 <template>
   <div id="v" class="video-wrapper">
-    <video id="main-video" class="promo-video"   :width="videoOfWidth" playsinline autoplay="autoplay" muted loop="loop">
+    <video id="main-video" class="promo-video" poster="../../assets/videos/poster_masterok.jpg"  :width="videoOfWidth" playsinline autoplay="autoplay" muted loop="loop">
       <source src="../../assets/videos/line-production.webm" type="video/webm">
+      <source src="../../assets/videos/line-production.mp4" type="video/mp4">
       Error Message
     </video>
   </div>

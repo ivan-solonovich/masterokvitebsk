@@ -2,7 +2,7 @@
   <div class="contact-container-mobile-wrapper">
             <div class="container desktop-alining">
               <div class="contact-container">
-                  <a class="phone" href="+375 33 592-80-03">
+                  <a class="phone" href="tel:+375335928003">
                       <div class="contact-container-mobile ">
 
                         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" class="phone-icon"
@@ -18,7 +18,7 @@
                   </a>
             </div>
               <div class="contact-container">
-                  <a class="phone" href="+375 29 6741797">
+                  <a class="phone" href="tel:+375296741797">
                     <div class="contact-container-mobile">
 
                         <svg  class="phone-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 256 256"><g transform="translate(256 0)
